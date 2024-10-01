@@ -1,0 +1,70 @@
+{
+  "schedules": [
+    {
+      "id": "429c7ffbd0f074bf941de611e76533e2",
+      "startTime": "2024-09-01T08:00:00.000Z",
+      "endTime": "2024-09-03T00:00:00.000Z",
+      "mode": "REGULAR",
+      "rule": "REGULAR",
+      "bossId": 23,
+      "stageId": 6,
+      "rareWeapons": [],
+      "weaponList": [30, 20, 3050, 2030]
+    },
+    {
+      "id": "b0c7bb5c362f4b09e465ab59f8f68ec8",
+      "startTime": "2024-09-03T00:00:00.000Z",
+      "endTime": "2024-09-04T16:00:00.000Z",
+      "mode": "REGULAR",
+      "rule": "REGULAR",
+      "bossId": 24,
+      "stageId": 4,
+      "rareWeapons": [],
+      "weaponList": [0, 1100, 1000, 7030]
+    },
+    {
+      "id": "76b50d114c1f10aa6f62f511c3beb768",
+      "startTime": "2024-09-04T16:00:00.000Z",
+      "endTime": "2024-09-07T00:00:00.000Z",
+      "mode": "REGULAR",
+      "rule": "REGULAR",
+      "bossId": 25,
+      "stageId": 7,
+      "rareWeapons": [],
+      "weaponList": [50, 400, 260, 4010]
+    },
+    {
+      "id": "442a46689b9f19ddd9bc985606272149",
+      "startTime": "2024-09-09T00:00:00.000Z",
+      "endTime": "2024-09-10T16:00:00.000Z",
+      "mode": "REGULAR",
+      "rule": "REGULAR",
+      "bossId": 23,
+      "stageId": 2,
+      "rareWeapons": [],
+      "weaponList": [310, 100, 1030, 2030]
+    },
+    {
+      "id": "4a9efc5aa74b5f1a6e48e94ac093eba8",
+      "startTime": "2024-09-10T16:00:00.000Z",
+      "endTime": "2024-09-12T08:00:00.000Z",
+      "mode": "REGULAR",
+      "rule": "REGULAR",
+      "bossId": 24,
+      "stageId": 6,
+      "rareWeapons": [],
+      "weaponList": [300, 20, 50, 7030]
+    },
+    {
+      "id": "38d8a983c2957048bb5c327163878d26",
+      "startTime": "2024-09-07T00:00:00.000Z",
+      "endTime": "2024-09-09T00:00:00.000Z",
+      "mode": "REGULAR",
+      "rule": "BIG_RUN",
+      "bossId": 30,
+      "stageId": 107,
+      "rareWeapons": [],
+      "weaponList": [-2, -2, -2, -2]
+    }
+  ]
+}

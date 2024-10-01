@@ -1,0 +1,332 @@
+{
+  "histories": [
+    {
+      "schedule": {
+        "id": "919bdee7027b8a5470183fe627a35371",
+        "startTime": "2024-03-19T08:00:00.000Z",
+        "endTime": "2024-03-21T00:00:00.000Z",
+        "mode": "REGULAR",
+        "rule": "REGULAR",
+        "stageId": 1,
+        "rareWeapons": [],
+        "weaponList": [40, 400, 3050, 2070]
+      },
+      "results": [
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "a7grz65rxkvhfsbwmxmm",
+          "playTime": "2024-03-19T15:19:23.000Z",
+          "uuid": "d3139e3a-9eac-413e-a604-e13134fcf6ff"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "a7grz65rxkvhfsbwmxmm",
+          "playTime": "2024-03-19T15:13:57.000Z",
+          "uuid": "7a5514f3-8eb6-434b-bf1a-674d04ba285c"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "a7grz65rxkvhfsbwmxmm",
+          "playTime": "2024-03-19T15:03:18.000Z",
+          "uuid": "81355620-b4af-41b4-8cbc-0642671fb09c"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "a7grz65rxkvhfsbwmxmm",
+          "playTime": "2024-03-19T14:55:34.000Z",
+          "uuid": "46b0e070-d7b1-400d-9f42-a9b2dd19043c"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "a7grz65rxkvhfsbwmxmm",
+          "playTime": "2024-03-19T14:48:09.000Z",
+          "uuid": "e9f4a9cc-e22a-4833-98b8-4ad8fcc3fa80"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "a7grz65rxkvhfsbwmxmm",
+          "playTime": "2024-03-19T14:40:46.000Z",
+          "uuid": "68cda24e-c90c-44e0-83e3-45d3bf03714a"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "a7grz65rxkvhfsbwmxmm",
+          "playTime": "2024-03-19T14:31:22.000Z",
+          "uuid": "d9851e85-effa-4d1f-bb5b-d0f70955d5fd"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "a7grz65rxkvhfsbwmxmm",
+          "playTime": "2024-03-19T14:25:47.000Z",
+          "uuid": "06ceafd9-e711-4bec-a0a6-c776c615b8f1"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "a7grz65rxkvhfsbwmxmm",
+          "playTime": "2024-03-19T14:18:14.000Z",
+          "uuid": "c2637dfe-20b0-4b26-ac19-429caf0d3d61"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "a7grz65rxkvhfsbwmxmm",
+          "playTime": "2024-03-19T14:10:51.000Z",
+          "uuid": "7175e5c5-fbfd-497a-9e65-b22d64d762bb"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "a7grz65rxkvhfsbwmxmm",
+          "playTime": "2024-03-19T14:03:30.000Z",
+          "uuid": "c1aedffa-1d3a-4070-b44b-2312ec2d0886"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "a7grz65rxkvhfsbwmxmm",
+          "playTime": "2024-03-19T13:51:47.000Z",
+          "uuid": "7edee4de-d8f8-43be-a4bb-051613661f62"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "a7grz65rxkvhfsbwmxmm",
+          "playTime": "2024-03-19T13:44:16.000Z",
+          "uuid": "bb3a8f30-ff6d-4ae4-ae33-2bf419039d82"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "a7grz65rxkvhfsbwmxmm",
+          "playTime": "2024-03-19T13:38:55.000Z",
+          "uuid": "d445e445-868a-4484-b004-19b4d0e67f13"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "a7grz65rxkvhfsbwmxmm",
+          "playTime": "2024-03-19T13:31:29.000Z",
+          "uuid": "c81e549b-9163-480f-bd73-6fb49f6e5fde"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "a7grz65rxkvhfsbwmxmm",
+          "playTime": "2024-03-19T13:24:03.000Z",
+          "uuid": "39ebece8-599f-4df3-82c9-f7fd23e2ef0e"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "a7grz65rxkvhfsbwmxmm",
+          "playTime": "2024-03-19T13:16:27.000Z",
+          "uuid": "a0545322-e1ad-45de-a9f0-f4897140135b"
+        }
+      ]
+    },
+    {
+      "schedule": {
+        "id": "bd92b39d10208169d2b9e61648e82926",
+        "startTime": "2024-03-09T00:00:00.000Z",
+        "endTime": "2024-03-11T00:00:00.000Z",
+        "mode": "REGULAR",
+        "rule": "BIG_RUN",
+        "stageId": 106,
+        "rareWeapons": [],
+        "weaponList": [-1, -1, -1, -1]
+      },
+      "results": [
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "a7grz65rxkvhfsbwmxmm",
+          "playTime": "2024-03-10T15:33:21.000Z",
+          "uuid": "6c7f0304-de90-49d2-9cff-d428d9d74acf"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "a7grz65rxkvhfsbwmxmm",
+          "playTime": "2024-03-10T15:24:27.000Z",
+          "uuid": "6668679f-4061-4942-aa13-fbf4e9cc19b6"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "a7grz65rxkvhfsbwmxmm",
+          "playTime": "2024-03-10T15:17:07.000Z",
+          "uuid": "fc9e9b22-72a0-4be0-a295-259ea227c467"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "a7grz65rxkvhfsbwmxmm",
+          "playTime": "2024-03-10T15:09:31.000Z",
+          "uuid": "5534dce5-6f47-4219-b2cc-c6ae9ad1ca3e"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "a7grz65rxkvhfsbwmxmm",
+          "playTime": "2024-03-10T15:02:04.000Z",
+          "uuid": "03b3c903-da28-4445-98e0-438b7163a968"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "a7grz65rxkvhfsbwmxmm",
+          "playTime": "2024-03-10T14:54:14.000Z",
+          "uuid": "762e29d4-8ee3-42ae-ac91-c8efb0739710"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "a7grz65rxkvhfsbwmxmm",
+          "playTime": "2024-03-10T14:44:50.000Z",
+          "uuid": "047eb1ec-4460-493c-ba7f-2b95cc4ea2de"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "a7grz65rxkvhfsbwmxmm",
+          "playTime": "2024-03-10T14:37:38.000Z",
+          "uuid": "2ce84a14-8651-470e-a007-b7bdd4fbb513"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "a7grz65rxkvhfsbwmxmm",
+          "playTime": "2024-03-10T14:30:21.000Z",
+          "uuid": "4abfa1b4-968c-491e-bc1c-d06f21be51d4"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "a7grz65rxkvhfsbwmxmm",
+          "playTime": "2024-03-10T14:23:02.000Z",
+          "uuid": "18fab574-a13e-4452-b3b3-8c1c38d7116e"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "a7grz65rxkvhfsbwmxmm",
+          "playTime": "2024-03-10T14:15:39.000Z",
+          "uuid": "13253ba1-46ad-48be-ace6-cbc259a6434c"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "a7grz65rxkvhfsbwmxmm",
+          "playTime": "2024-03-10T14:10:09.000Z",
+          "uuid": "c2c89848-1d2b-4c93-a4aa-9078696ed512"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "a7grz65rxkvhfsbwmxmm",
+          "playTime": "2024-03-10T14:02:44.000Z",
+          "uuid": "d34fc627-e5b7-4a2f-ad04-c44a77fffb35"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "a7grz65rxkvhfsbwmxmm",
+          "playTime": "2024-03-10T13:56:59.000Z",
+          "uuid": "3c044ce1-afda-4624-aaab-4061f8f3b66e"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "a7grz65rxkvhfsbwmxmm",
+          "playTime": "2024-03-10T13:47:34.000Z",
+          "uuid": "341cd1a8-b713-4ee8-b235-eeb4a8afc436"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "a7grz65rxkvhfsbwmxmm",
+          "playTime": "2024-03-10T13:42:15.000Z",
+          "uuid": "820e5ce1-9800-46ec-bd79-050ff83a7529"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "a7grz65rxkvhfsbwmxmm",
+          "playTime": "2024-03-10T13:34:58.000Z",
+          "uuid": "d5d1d642-154f-41a5-9619-d6064212bf41"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "a7grz65rxkvhfsbwmxmm",
+          "playTime": "2024-03-10T13:27:57.000Z",
+          "uuid": "d5d1d642-154f-41a5-9619-d6064212bf41"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "a7grz65rxkvhfsbwmxmm",
+          "playTime": "2024-03-10T13:21:05.000Z",
+          "uuid": "d5d1d642-154f-41a5-9619-d6064212bf41"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "a7grz65rxkvhfsbwmxmm",
+          "playTime": "2024-03-10T13:11:24.000Z",
+          "uuid": "30256cd5-52e4-4f8e-9bd5-1736028cb6c4"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "a7grz65rxkvhfsbwmxmm",
+          "playTime": "2024-03-10T13:02:26.000Z",
+          "uuid": "f4fcfbd6-b28b-4f39-b6de-e468f474f7ca"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "a7grz65rxkvhfsbwmxmm",
+          "playTime": "2024-03-10T12:54:46.000Z",
+          "uuid": "3c56549c-802b-4e29-b17c-12b7ea09938b"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "a7grz65rxkvhfsbwmxmm",
+          "playTime": "2024-03-10T12:47:14.000Z",
+          "uuid": "4555ed8c-2919-4222-a622-aab1d5df8402"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "a7grz65rxkvhfsbwmxmm",
+          "playTime": "2024-03-10T11:43:29.000Z",
+          "uuid": "2a002dbd-c252-4719-a941-fd8d5c9ed6c1"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "a7grz65rxkvhfsbwmxmm",
+          "playTime": "2024-03-10T11:34:19.000Z",
+          "uuid": "2a002dbd-c252-4719-a941-fd8d5c9ed6c1"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "a7grz65rxkvhfsbwmxmm",
+          "playTime": "2024-03-10T11:29:19.000Z",
+          "uuid": "2a002dbd-c252-4719-a941-fd8d5c9ed6c1"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "a7grz65rxkvhfsbwmxmm",
+          "playTime": "2024-03-10T11:21:47.000Z",
+          "uuid": "2a002dbd-c252-4719-a941-fd8d5c9ed6c1"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "a7grz65rxkvhfsbwmxmm",
+          "playTime": "2024-03-10T11:14:12.000Z",
+          "uuid": "56840107-071f-405a-a74f-9d0abebf42d2"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "a7grz65rxkvhfsbwmxmm",
+          "playTime": "2024-03-10T11:06:45.000Z",
+          "uuid": "60faa2a6-51b3-47ea-9cd8-016406a74a8c"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "a7grz65rxkvhfsbwmxmm",
+          "playTime": "2024-03-10T10:59:40.000Z",
+          "uuid": "60faa2a6-51b3-47ea-9cd8-016406a74a8c"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "a7grz65rxkvhfsbwmxmm",
+          "playTime": "2024-03-10T10:50:09.000Z",
+          "uuid": "66370f55-34f5-417d-966e-8334946cec22"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "a7grz65rxkvhfsbwmxmm",
+          "playTime": "2024-03-10T10:42:58.000Z",
+          "uuid": "66370f55-34f5-417d-966e-8334946cec22"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "a7grz65rxkvhfsbwmxmm",
+          "playTime": "2024-03-09T17:53:01.000Z",
+          "uuid": "5e5f02f9-9106-43b6-8d14-20dfb9e8be13"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,264 @@
+{
+  "id": "937ddd39c0fcc756adc24872d5df2890",
+  "uuid": "e05cec2b-f59d-4a73-89d9-a7868613bd68",
+  "scale": [12, 12, 0],
+  "myResult": {
+    "id": "8449bb3e6d2de9c7f365c1d52dfe94cc",
+    "byname": "Splatlandian Youth",
+    "name": "アウラ、かいはつしろ",
+    "nameId": "2626",
+    "nameplate": {
+      "badges": [null, null, null],
+      "background": {
+        "id": 2001,
+        "textColor": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    },
+    "uniform": 1,
+    "species": "INKLING",
+    "weaponList": [220, 2060, 40, 27900],
+    "isMyself": true,
+    "nplnUserId": "agmwjnyghvzbaavt5mmm",
+    "specialId": 20009,
+    "ikuraNum": 2192,
+    "goldenIkuraNum": 26,
+    "goldenIkuraAssistNum": 3,
+    "helpCount": 3,
+    "deadCount": 3,
+    "bossKillCounts": [3, 2, 2, 2, 5, 1, 3, 5, 2, 0, 2, 0, 0, 0],
+    "bossKillCountsTotal": 27,
+    "jobScore": 167,
+    "gradeId": 8,
+    "kumaPoint": 642,
+    "gradePoint": 999,
+    "smellMeter": 4,
+    "specialCounts": [1, 0, 1, 2],
+    "jobBonus": 100,
+    "jobRate": 3.25
+  },
+  "otherResults": [
+    {
+      "id": "e23d0d0ca8eddba0901b05c91063e3d3",
+      "byname": "Alabaster Big Sister",
+      "name": "スレンドリナ",
+      "nameId": "2752",
+      "nameplate": {
+        "badges": [5000063, 5211000, 5000093],
+        "background": {
+          "id": 2403,
+          "textColor": {
+            "r": 1,
+            "g": 1,
+            "b": 1,
+            "a": 1
+          }
+        }
+      },
+      "uniform": 8,
+      "species": "INKLING",
+      "weaponList": [210, 21900, 6020, 22900],
+      "isMyself": false,
+      "nplnUserId": "aaeanjzidkilopvlbnmm",
+      "specialId": 20006,
+      "ikuraNum": 1632,
+      "goldenIkuraNum": 45,
+      "goldenIkuraAssistNum": 9,
+      "helpCount": 8,
+      "deadCount": 1,
+      "bossKillCounts": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "bossKillCountsTotal": 20,
+      "jobScore": null,
+      "gradeId": null,
+      "kumaPoint": null,
+      "gradePoint": null,
+      "smellMeter": null,
+      "specialCounts": [1, 0, 1, 2],
+      "jobBonus": null,
+      "jobRate": null
+    },
+    {
+      "id": "fb3650583cf901b6f314efc7f4763573",
+      "byname": "Crusty Follower",
+      "name": "xoxo",
+      "nameId": "2570",
+      "nameplate": {
+        "badges": [5110000, 5000093, 5211000],
+        "background": {
+          "id": 862,
+          "textColor": {
+            "r": 1,
+            "g": 0.960780025,
+            "b": 0.960784316,
+            "a": 1
+          }
+        }
+      },
+      "uniform": 17,
+      "species": "INKLING",
+      "weaponList": [1110, 6030, 5050, 28900],
+      "isMyself": false,
+      "nplnUserId": "qw7majx7ygk4p3b6anmm",
+      "specialId": 20013,
+      "ikuraNum": 1074,
+      "goldenIkuraNum": 41,
+      "goldenIkuraAssistNum": 1,
+      "helpCount": 3,
+      "deadCount": 7,
+      "bossKillCounts": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "bossKillCountsTotal": 17,
+      "jobScore": null,
+      "gradeId": null,
+      "kumaPoint": null,
+      "gradePoint": null,
+      "smellMeter": null,
+      "specialCounts": [1, 0, 1, 2],
+      "jobBonus": null,
+      "jobRate": null
+    },
+    {
+      "id": "58b73015f408816bdaac1a66ecde334d",
+      "byname": "Spawning Sashimi",
+      "name": "アウラ だんとうだい",
+      "nameId": "5790",
+      "nameplate": {
+        "badges": [6000103, null, 6000100],
+        "background": {
+          "id": 862,
+          "textColor": {
+            "r": 1,
+            "g": 0.960780025,
+            "b": 0.960784316,
+            "a": 1
+          }
+        }
+      },
+      "uniform": 17,
+      "species": "INKLING",
+      "weaponList": [250, 7020, 4050, 25900],
+      "isMyself": false,
+      "nplnUserId": "qwpkj67zv6b3qtcdsnmm",
+      "specialId": 20010,
+      "ikuraNum": 1781,
+      "goldenIkuraNum": 22,
+      "goldenIkuraAssistNum": 5,
+      "helpCount": 3,
+      "deadCount": 6,
+      "bossKillCounts": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "bossKillCountsTotal": 36,
+      "jobScore": null,
+      "gradeId": null,
+      "kumaPoint": null,
+      "gradePoint": null,
+      "smellMeter": null,
+      "specialCounts": [1, 0, 1, 1],
+      "jobBonus": null,
+      "jobRate": null
+    }
+  ],
+  "jobResult": {
+    "failureWave": null,
+    "isClear": true,
+    "bossId": 30,
+    "isBossDefeated": null
+  },
+  "playTime": "2024-06-09T16:39:50.000Z",
+  "bossCounts": [13, 16, 7, 8, 10, 12, 11, 9, 9, 4, 10, 0, 0, 0],
+  "bossKillCounts": [13, 14, 7, 8, 10, 12, 9, 9, 8, 4, 9, 0, 0, 0],
+  "dangerRate": 3.33,
+  "ikuraNum": 6679,
+  "goldenIkuraNum": 134,
+  "goldenIkuraAssistNum": 18,
+  "scenarioCode": null,
+  "waveDetails": [
+    {
+      "id": "f4a9a86a6c47cbc59cbd127ff9942270",
+      "waterLevel": 1,
+      "eventType": 0,
+      "quotaNum": 30,
+      "goldenIkuraPopNum": 78,
+      "goldenIkuraNum": 35,
+      "waveId": 1,
+      "isClear": true
+    },
+    {
+      "id": "c793b3ef46eecb07204ac96b2f78fac5",
+      "waterLevel": 1,
+      "eventType": 0,
+      "quotaNum": 32,
+      "goldenIkuraPopNum": 96,
+      "goldenIkuraNum": 46,
+      "waveId": 2,
+      "isClear": true
+    },
+    {
+      "id": "efee9090ce924d685e5ee3a5ec1454a8",
+      "waterLevel": 0,
+      "eventType": 0,
+      "quotaNum": 35,
+      "goldenIkuraPopNum": 81,
+      "goldenIkuraNum": 53,
+      "waveId": 3,
+      "isClear": true
+    },
+    {
+      "id": "c5914c61ac6989ef70006f84cfac0df1",
+      "waterLevel": 0,
+      "eventType": 0,
+      "quotaNum": null,
+      "goldenIkuraPopNum": 51,
+      "goldenIkuraNum": null,
+      "waveId": 4,
+      "isClear": false
+    }
+  ]
+}

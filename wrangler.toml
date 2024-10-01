@@ -1,0 +1,40 @@
+name = "av5ja"
+main = "src/index.ts"
+compatibility_flags = ["nodejs_compat"]
+compatibility_date = "2024-09-02"
+send_metrics = true
+
+kv_namespaces = [
+  { binding = "RESULTS", id = "c7c2262b7c3e4bf9af607b726cf84a53", preview_id = "cfeae1893020481485a576951982db42" },
+  { binding = "SCHEDULES", id = "bc10803207b245e79c684b0e7954e6dc", preview_id = "8245cba505c74d6ea65b8a9ccf894117" },
+  { binding = "USERS", id = "9dba38122605448f8f63f6c4bafce01c", preview_id = "47103828a19649ed9fc08f586a7e6c5b" },
+  { binding = "RESOURCES", id = "7aed7afef4a24816ac7a7ab5a835d580", preview_id = "3ca75c76df2344a68af8738e5140d80a" },
+  { binding = "CACHES", id = "bbbe36203fcb4f62b93e4eade0e23e73", preview_id = "b7db71d6af57495db2229664d086aef6" },
+  { binding = "HISTORIES", id = "2cacefebaf9c43cb9e8b5f742e1ba852", preview_id = "1d365df342844affae4c81dbbebad1e0" },
+]
+
+[observability]
+enabled = true
+head_sampling_rate = 1
+
+[triggers]
+crons = ["*/30 * * * *"]
+
+[env.dev]
+workers_dev = true
+kv_namespaces = [
+  { binding = "RESULTS", id = "c7c2262b7c3e4bf9af607b726cf84a53", preview_id = "cfeae1893020481485a576951982db42" },
+  { binding = "SCHEDULES", id = "bc10803207b245e79c684b0e7954e6dc", preview_id = "8245cba505c74d6ea65b8a9ccf894117" },
+  { binding = "USERS", id = "9dba38122605448f8f63f6c4bafce01c", preview_id = "47103828a19649ed9fc08f586a7e6c5b" },
+  { binding = "RESOURCES", id = "7aed7afef4a24816ac7a7ab5a835d580", preview_id = "3ca75c76df2344a68af8738e5140d80a" },
+  { binding = "CACHES", id = "bbbe36203fcb4f62b93e4eade0e23e73", preview_id = "b7db71d6af57495db2229664d086aef6" },
+  { binding = "HISTORIES", id = "2cacefebaf9c43cb9e8b5f742e1ba852", preview_id = "1d365df342844affae4c81dbbebad1e0" },
+]
+
+[env.dev.observability]
+enabled = true
+head_sampling_rate = 1
+
+[dev]
+ip = "0.0.0.0"
+port = 18787

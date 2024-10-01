@@ -1,0 +1,254 @@
+{
+  "id": "611c2ae66d635ec5dda47292a3a3dea0",
+  "uuid": "f91570d6-fc4a-4652-b1af-6e1af5a0f428",
+  "scale": [null, null, null],
+  "myResult": {
+    "id": "7f93da2e96d3e588567cd2d9a9a831d1",
+    "byname": "Charmed Daredevil",
+    "name": "´ω` Waffle",
+    "nameId": "3191",
+    "nameplate": {
+      "badges": [6000100, 4000100, 6000105],
+      "background": {
+        "id": 15042,
+        "textColor": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    },
+    "uniform": 20,
+    "species": "INKLING",
+    "weaponList": [210, 60, 4020],
+    "isMyself": true,
+    "nplnUserId": "azdswcyquqxwekbm7mmm",
+    "specialId": 20012,
+    "ikuraNum": 882,
+    "goldenIkuraNum": 40,
+    "goldenIkuraAssistNum": 1,
+    "helpCount": 1,
+    "deadCount": 2,
+    "bossKillCounts": [2, 2, 5, 2, 2, 1, 1, 3, 2, 0, 1, 0, 0, 0],
+    "bossKillCountsTotal": 21,
+    "jobScore": 148,
+    "gradeId": 8,
+    "kumaPoint": 479,
+    "gradePoint": 620,
+    "smellMeter": 0,
+    "specialCounts": [0, 1, 1],
+    "jobBonus": 50,
+    "jobRate": 2.9
+  },
+  "otherResults": [
+    {
+      "id": "b08360db325ef88ca835ad832ba0ead6",
+      "byname": "AKA Palette",
+      "name": "Σ Palette",
+      "nameId": "2731",
+      "nameplate": {
+        "badges": [3000401, 4100410, 6000105],
+        "background": {
+          "id": 11079,
+          "textColor": {
+            "r": 1,
+            "g": 1,
+            "b": 1,
+            "a": 1
+          }
+        }
+      },
+      "uniform": 19,
+      "species": "INKLING",
+      "weaponList": [4020, 210, 1040],
+      "isMyself": false,
+      "nplnUserId": "alt2jnyghvzbaauzhnmm",
+      "specialId": 20009,
+      "ikuraNum": 931,
+      "goldenIkuraNum": 30,
+      "goldenIkuraAssistNum": 1,
+      "helpCount": 2,
+      "deadCount": 1,
+      "bossKillCounts": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "bossKillCountsTotal": 17,
+      "jobScore": null,
+      "gradeId": null,
+      "kumaPoint": null,
+      "gradePoint": null,
+      "smellMeter": null,
+      "specialCounts": [0, 0, 2],
+      "jobBonus": null,
+      "jobRate": null
+    },
+    {
+      "id": "2e7dbefa47d15229dbfa4b03dc2e6728",
+      "byname": "Splendid Bird",
+      "name": "Alvin",
+      "nameId": "6806",
+      "nameplate": {
+        "badges": [5211000, 5200082, 5200042],
+        "background": {
+          "id": 15021,
+          "textColor": {
+            "r": 1,
+            "g": 1,
+            "b": 1,
+            "a": 1
+          }
+        }
+      },
+      "uniform": 18,
+      "species": "INKLING",
+      "weaponList": [6020, 4020, 60],
+      "isMyself": false,
+      "nplnUserId": "qntjfxnsmuwseqbtbomm",
+      "specialId": 20006,
+      "ikuraNum": 1026,
+      "goldenIkuraNum": 35,
+      "goldenIkuraAssistNum": 0,
+      "helpCount": 2,
+      "deadCount": 3,
+      "bossKillCounts": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "bossKillCountsTotal": 17,
+      "jobScore": null,
+      "gradeId": null,
+      "kumaPoint": null,
+      "gradePoint": null,
+      "smellMeter": null,
+      "specialCounts": [0, 1, 1],
+      "jobBonus": null,
+      "jobRate": null
+    },
+    {
+      "id": "9a1ec107c1204893efa463181d3b5b57",
+      "byname": "Dapper Harlequin",
+      "name": "Tamatoes",
+      "nameId": "2601",
+      "nameplate": {
+        "badges": [5210200, 5200041, 5200042],
+        "background": {
+          "id": 17002,
+          "textColor": {
+            "r": 1,
+            "g": 1,
+            "b": 1,
+            "a": 1
+          }
+        }
+      },
+      "uniform": 18,
+      "species": "OCTOLING",
+      "weaponList": [60, 27900, 210],
+      "isMyself": false,
+      "nplnUserId": "qd3ycbkmraqlpl5mwymm",
+      "specialId": 20014,
+      "ikuraNum": 1380,
+      "goldenIkuraNum": 22,
+      "goldenIkuraAssistNum": 0,
+      "helpCount": 2,
+      "deadCount": 1,
+      "bossKillCounts": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "bossKillCountsTotal": 19,
+      "jobScore": null,
+      "gradeId": null,
+      "kumaPoint": null,
+      "gradePoint": null,
+      "smellMeter": null,
+      "specialCounts": [1, 0, 1],
+      "jobBonus": null,
+      "jobRate": null
+    }
+  ],
+  "jobResult": {
+    "failureWave": null,
+    "isClear": true,
+    "bossId": null,
+    "isBossDefeated": null
+  },
+  "playTime": "2024-06-22T11:30:50.000Z",
+  "bossCounts": [9, 5, 8, 7, 11, 6, 6, 9, 9, 0, 11, 0, 0, 0],
+  "bossKillCounts": [9, 5, 7, 7, 11, 6, 5, 9, 9, 0, 10, 0, 0, 0],
+  "dangerRate": 2.72,
+  "ikuraNum": 4219,
+  "goldenIkuraNum": 127,
+  "goldenIkuraAssistNum": 2,
+  "scenarioCode": null,
+  "waveDetails": [
+    {
+      "id": "2630a33bef22901e176e2d555cb942b0",
+      "waterLevel": 2,
+      "eventType": 0,
+      "quotaNum": 28,
+      "goldenIkuraPopNum": 72,
+      "goldenIkuraNum": 47,
+      "waveId": 1,
+      "isClear": true
+    },
+    {
+      "id": "7d2292fab5577e8fbdcf46a7de871f42",
+      "waterLevel": 1,
+      "eventType": 0,
+      "quotaNum": 30,
+      "goldenIkuraPopNum": 75,
+      "goldenIkuraNum": 31,
+      "waveId": 2,
+      "isClear": true
+    },
+    {
+      "id": "3e7b961ca564a7245b1c6045d8d9c9e7",
+      "waterLevel": 2,
+      "eventType": 0,
+      "quotaNum": 32,
+      "goldenIkuraPopNum": 87,
+      "goldenIkuraNum": 49,
+      "waveId": 3,
+      "isClear": true
+    }
+  ]
+}

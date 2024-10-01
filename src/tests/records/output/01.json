@@ -1,0 +1,166 @@
+{
+  "stageRecords": [
+    {
+      "endTime": null,
+      "goldenIkuraNum": null,
+      "grade": 8,
+      "gradePoint": 999,
+      "rank": null,
+      "stageId": 2,
+      "startTime": null,
+      "trophy": null
+    },
+    {
+      "endTime": null,
+      "goldenIkuraNum": null,
+      "grade": 8,
+      "gradePoint": 999,
+      "rank": null,
+      "stageId": 1,
+      "startTime": null,
+      "trophy": null
+    },
+    {
+      "endTime": null,
+      "goldenIkuraNum": null,
+      "grade": 8,
+      "gradePoint": 999,
+      "rank": null,
+      "stageId": 7,
+      "startTime": null,
+      "trophy": null
+    },
+    {
+      "endTime": null,
+      "goldenIkuraNum": null,
+      "grade": 8,
+      "gradePoint": 740,
+      "rank": null,
+      "stageId": 6,
+      "startTime": null,
+      "trophy": null
+    },
+    {
+      "endTime": null,
+      "goldenIkuraNum": null,
+      "grade": 8,
+      "gradePoint": 500,
+      "rank": null,
+      "stageId": 8,
+      "startTime": null,
+      "trophy": null
+    },
+    {
+      "endTime": null,
+      "goldenIkuraNum": null,
+      "grade": 8,
+      "gradePoint": 999,
+      "rank": null,
+      "stageId": 4,
+      "startTime": null,
+      "trophy": null
+    },
+    {
+      "endTime": null,
+      "goldenIkuraNum": null,
+      "grade": 8,
+      "gradePoint": 210,
+      "rank": null,
+      "stageId": 9,
+      "startTime": null,
+      "trophy": null
+    },
+    {
+      "endTime": "2024-03-11T00:00:00.000Z",
+      "goldenIkuraNum": 151,
+      "grade": 8,
+      "gradePoint": 820,
+      "rank": 7,
+      "stageId": 106,
+      "startTime": "2024-03-09T00:00:00.000Z",
+      "trophy": "GOLD"
+    },
+    {
+      "endTime": "2023-12-04T00:00:00.000Z",
+      "goldenIkuraNum": 187,
+      "grade": 8,
+      "gradePoint": 999,
+      "rank": 2,
+      "stageId": 105,
+      "startTime": "2023-12-02T00:00:00.000Z",
+      "trophy": "GOLD"
+    },
+    {
+      "endTime": "2023-09-04T00:00:00.000Z",
+      "goldenIkuraNum": 188,
+      "grade": 8,
+      "gradePoint": 999,
+      "rank": null,
+      "stageId": 104,
+      "startTime": "2023-09-02T00:00:00.000Z",
+      "trophy": "GOLD"
+    }
+  ],
+  "enemyRecords": [
+    {
+      "count": 3175,
+      "enemyId": 4
+    },
+    {
+      "count": 2422,
+      "enemyId": 5
+    },
+    {
+      "count": 2320,
+      "enemyId": 6
+    },
+    {
+      "count": 2622,
+      "enemyId": 7
+    },
+    {
+      "count": 2914,
+      "enemyId": 8
+    },
+    {
+      "count": 2126,
+      "enemyId": 9
+    },
+    {
+      "count": 2609,
+      "enemyId": 10
+    },
+    {
+      "count": 1236,
+      "enemyId": 11
+    },
+    {
+      "count": 1786,
+      "enemyId": 12
+    },
+    {
+      "count": 1256,
+      "enemyId": 13
+    },
+    {
+      "count": 1640,
+      "enemyId": 14
+    },
+    {
+      "count": 132,
+      "enemyId": 23
+    },
+    {
+      "count": 88,
+      "enemyId": 24
+    },
+    {
+      "count": 34,
+      "enemyId": 25
+    },
+    {
+      "count": 0,
+      "enemyId": 30
+    }
+  ]
+}

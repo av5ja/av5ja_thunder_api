@@ -1,0 +1,108 @@
+{
+  "Normal": [
+    {
+      "bigBoss": "SakelienGiant",
+      "rewardGear": {
+        "rewardId": "66ab2a2b0accd55d99cf1f2a",
+        "kind": "Head",
+        "id": 21023
+      },
+      "phaseId": "66a3ca624b47c2c776c5cd52",
+      "startTime": "2024-08-02T08:00:00Z",
+      "endTime": "2024-08-04T00:00:00Z",
+      "stage": 8,
+      "weapons": [4030, 400, 90, -1],
+      "rareWeapons": [20900, 22900, 25900, 28900, 26900, 23900, 27900, 21900]
+    },
+    {
+      "bigBoss": "SakeRope",
+      "rewardGear": {
+        "rewardId": "66ab2a2b0accd55d99cf1f2a",
+        "kind": "Head",
+        "id": 21023
+      },
+      "phaseId": "66a5fce14b47c2c776c5cd7b",
+      "startTime": "2024-08-04T00:00:00Z",
+      "endTime": "2024-08-05T16:00:00Z",
+      "stage": 1,
+      "weapons": [5050, 1110, 1030, 2030],
+      "rareWeapons": []
+    },
+    {
+      "bigBoss": "SakeJaw",
+      "rewardGear": {
+        "rewardId": "66ab2a2b0accd55d99cf1f2a",
+        "kind": "Head",
+        "id": 21023
+      },
+      "phaseId": "66a82f634b47c2c776c5cda4",
+      "startTime": "2024-08-05T16:00:00Z",
+      "endTime": "2024-08-07T08:00:00Z",
+      "stage": 2,
+      "weapons": [10, 30, 230, 2000],
+      "rareWeapons": []
+    },
+    {
+      "bigBoss": "SakelienGiant",
+      "rewardGear": {
+        "rewardId": "66ab2a2b0accd55d99cf1f2a",
+        "kind": "Head",
+        "id": 21023
+      },
+      "phaseId": "66aa61e14b47c2c776c5ce8c",
+      "startTime": "2024-08-07T08:00:00Z",
+      "endTime": "2024-08-09T00:00:00Z",
+      "stage": 6,
+      "weapons": [1000, 6020, 70, 7030],
+      "rareWeapons": []
+    },
+    {
+      "bigBoss": "SakeRope",
+      "rewardGear": {
+        "rewardId": "66ab2a2b0accd55d99cf1f2a",
+        "kind": "Head",
+        "id": 21023
+      },
+      "phaseId": "66ac94624b47c2c776c5ceb5",
+      "startTime": "2024-08-09T00:00:00Z",
+      "endTime": "2024-08-10T16:00:00Z",
+      "stage": 4,
+      "weapons": [6030, 20, 1010, 7010],
+      "rareWeapons": []
+    }
+  ],
+  "BigRun": [
+    {
+      "bigBoss": "Triple",
+      "rewards": {
+        "normal": {
+          "reward": 1200141,
+          "topPercent": -1,
+          "minimumScore": 0
+        },
+        "bronze": {
+          "reward": 1200142,
+          "topPercent": -1,
+          "minimumScore": 100
+        },
+        "silver": {
+          "reward": 1200143,
+          "topPercent": -1,
+          "minimumScore": 125
+        },
+        "gold": {
+          "reward": 1200144,
+          "topPercent": -1,
+          "minimumScore": 150
+        }
+      },
+      "phaseId": "66c8546572050d5a3121df2e",
+      "startTime": "2024-09-07T00:00:00Z",
+      "endTime": "2024-09-09T00:00:00Z",
+      "stage": 107,
+      "weapons": [-2, -2, -2, -2],
+      "rareWeapons": []
+    }
+  ],
+  "TeamContest": []
+}

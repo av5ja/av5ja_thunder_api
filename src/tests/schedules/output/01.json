@@ -1,0 +1,81 @@
+{
+  "schedules": [
+    {
+      "id": "067e3adf9206d924b4d51f868ce3971e",
+      "startTime": "2024-07-01T16:00:00.000Z",
+      "endTime": "2024-07-03T08:00:00.000Z",
+      "mode": "REGULAR",
+      "rule": "REGULAR",
+      "bossId": 25,
+      "stageId": 6,
+      "rareWeapons": [],
+      "weaponList": [3010, 20, 1000, 6010]
+    },
+    {
+      "id": "45e39637289bcd07800038c4a78a7519",
+      "startTime": "2024-07-03T08:00:00.000Z",
+      "endTime": "2024-07-05T00:00:00.000Z",
+      "mode": "REGULAR",
+      "rule": "REGULAR",
+      "bossId": 23,
+      "stageId": 4,
+      "rareWeapons": [],
+      "weaponList": [100, 8000, 1120, 250]
+    },
+    {
+      "id": "87ce6715274359dd03c4e7bab62b4816",
+      "startTime": "2024-07-05T00:00:00.000Z",
+      "endTime": "2024-07-06T16:00:00.000Z",
+      "mode": "REGULAR",
+      "rule": "REGULAR",
+      "bossId": 24,
+      "stageId": 7,
+      "rareWeapons": [],
+      "weaponList": [230, 4000, 3050, 2050]
+    },
+    {
+      "id": "e4197904cc352639187f13556c24792c",
+      "startTime": "2024-07-06T16:00:00.000Z",
+      "endTime": "2024-07-08T08:00:00.000Z",
+      "mode": "REGULAR",
+      "rule": "REGULAR",
+      "bossId": 30,
+      "stageId": 8,
+      "rareWeapons": [20900, 22900, 25900, 28900, 26900, 23900, 27900, 21900],
+      "weaponList": [-1, -1, -1, -1]
+    },
+    {
+      "id": "3f5484c9c77664083d17f45a06d04280",
+      "startTime": "2024-07-08T08:00:00.000Z",
+      "endTime": "2024-07-10T00:00:00.000Z",
+      "mode": "REGULAR",
+      "rule": "REGULAR",
+      "bossId": 23,
+      "stageId": 9,
+      "rareWeapons": [],
+      "weaponList": [5000, 6020, 8020, 80]
+    },
+    {
+      "id": "38d8a983c2957048bb5c327163878d26",
+      "startTime": "2024-09-07T00:00:00.000Z",
+      "endTime": "2024-09-09T00:00:00.000Z",
+      "mode": "REGULAR",
+      "rule": "BIG_RUN",
+      "bossId": 30,
+      "stageId": 107,
+      "rareWeapons": [],
+      "weaponList": [-2, -2, -2, -2]
+    },
+    {
+      "id": "d41501c9eae577d8461f805289d2e749",
+      "startTime": "2024-07-20T00:00:00.000Z",
+      "endTime": "2024-07-22T00:00:00.000Z",
+      "mode": "LIMITED",
+      "rule": "TEAM_CONTEST",
+      "bossId": null,
+      "stageId": 4,
+      "rareWeapons": [],
+      "weaponList": [60, 1000, 400, 6010]
+    }
+  ]
+}

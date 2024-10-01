@@ -1,0 +1,362 @@
+{
+  "data": {
+    "coopRecord": {
+      "stageHighestRecords": [
+        {
+          "coopStage": {
+            "coopStageId": 2,
+            "name": "Sockeye Station",
+            "image": {
+              "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v2/stage_img/icon/high_resolution/3418d2d89ef84288c78915b9acb63b4ad48df7bfcb48c27d6597920787e147ec_0.png?Expires=1736467200\u0026Signature=tJSrCvfKdIrp-NsDcQxZ~GP3cjf~WPI6QjS98j4N3-LnedBtxdcrzuUd-ETRqabPys0vvLH4CIBGIzi5WIH~CYJSHzCL38tpNHn3Bb4xrUA~McfPwVTPqpbEQW712dQVzpygOQDbOvFe9d0~bFgzs~1F9lyPIrlRce9bHlNP7FSRQQUPPIp8PKAoyxsh7rOfQzrBAtSzhtC8Cj2Z5ZOEvm~2aXU~NrcniQcVQnmat3I6ZVm1sqEp4qrN0v0zeKAd6ddqsH-0~EwzmSIkDzAH7jaiYgrQ9GEx61aVtKyoNgBtsxyebvHA-yyAtpOHlpGZG8Wz~qlYp~Xu6Lo1I-SHIg__\u0026Key-Pair-Id=KNBS2THMRC385"
+            },
+            "id": "Q29vcFN0YWdlLTI="
+          },
+          "grade": {
+            "name": "Eggsecutive VP",
+            "id": "Q29vcEdyYWRlLTg="
+          },
+          "gradePoint": 999
+        },
+        {
+          "coopStage": {
+            "coopStageId": 1,
+            "name": "Spawning Grounds",
+            "image": {
+              "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v2/stage_img/icon/high_resolution/be584c7c7f547b8cbac318617f646680541f88071bc71db73cd461eb3ea6326e_0.png?Expires=1736467200\u0026Signature=d96uCm14F052MFa80p~UsKR2kEIBQcpcgp62fH-Z0Kd-nsKYNRK4f9FaBEL3YlAF-~AHB4bTQ9pDaQd-UD124-E8vhSiiyJvCVMmHYx6yT3f6pLAVnedd2d-0FQV3W86ZLJjUscoqWgYPXv~Wz-DJsfhLRmKHc5VkVN6l6CwO17vaUCoxoV0Dwjx80Sv03Eq0ZeBqfHCnMjwhY6Bamf28NDwPeGjdpJZoMZo5KIed0SORGXkKQO8PjmkvnXAMWXoMLfLdeXae0JtIom1BWBIMBC1Q-Kz-8HMe3bpNUEjtIkHq2vO~GMnLNEFKov6naaa2JepvzdGJYAP5hXOWXw7CA__\u0026Key-Pair-Id=KNBS2THMRC385"
+            },
+            "id": "Q29vcFN0YWdlLTE="
+          },
+          "grade": {
+            "name": "Eggsecutive VP",
+            "id": "Q29vcEdyYWRlLTg="
+          },
+          "gradePoint": 999
+        },
+        {
+          "coopStage": {
+            "coopStageId": 7,
+            "name": "Gone Fission Hydroplant",
+            "image": {
+              "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v2/stage_img/icon/high_resolution/f1e4df4cff1dc5e0acc66a9654fecf949224f7e4f6bd36305d4600ac3fa3db7b_0.png?Expires=1736467200\u0026Signature=ELdkRzxxs7HvcI5JDkGn~cLNsel2ZxGetFsQIp9KNO8iagucQluzcJ~tYCXFcpIMB5z9badkgrBcv75CKdQLlmKff~s617ono0nTXTB2XvTRpBLqPifn3AHB8kLKGQEdI9hJuEiG9e88A6JbB4KLpP8E9XWu~7EjNPlYq--CiN~UiSIVrK~4pIL1-42ppjik2~RPbyCMITq2qsIu~LUGIOR2aor2oufClz1TEOf33qvH-C2RlUqa64nqtOi~c0k6PGjmdHb-R4hWAxv2VWjGRcrdKrAq9juqtW4fOoI9BCYQdHW4RRTlijsuCTiXeEpZX6DzwF3mRk1jExqVBv0uzw__\u0026Key-Pair-Id=KNBS2THMRC385"
+            },
+            "id": "Q29vcFN0YWdlLTc="
+          },
+          "grade": {
+            "name": "Eggsecutive VP",
+            "id": "Q29vcEdyYWRlLTg="
+          },
+          "gradePoint": 999
+        },
+        {
+          "coopStage": {
+            "coopStageId": 6,
+            "name": "Marooner's Bay",
+            "image": {
+              "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v2/stage_img/icon/high_resolution/1a29476c1ab5fdbc813e2df99cd290ce56dfe29755b97f671a7250e5f77f4961_0.png?Expires=1736467200\u0026Signature=G4nJxAFk40SqQdWexWYdLqzq4lD27clnYxZa9Znhd-J3GwgEgVPOzjd6izqZLsxB~9xTz5zfQhZaxzz3bERfTIxCJTYba9Y4MNquw1K93-ju9ShzEOJnk4uUZQYmW12x2Ztn~0P7F4qYE22zUMb7L-HEQ~WgzVoMmhSricuU4px~GSZgQJGXwjHkYOgoLgg4fe6Igg3ug2N9B-nurhNUTlZ6OLUktCyc1~~7ffjktkgbuWygxmjYxU8lLVB0a8rHem6mhUjaOxn2M1Q8axtkeFJppRN6MV5r34c4TBsYAI1GN6wGuqimpaIofoxJxqr2KB0F7hs0oDhZDdKa~ViJrg__\u0026Key-Pair-Id=KNBS2THMRC385"
+            },
+            "id": "Q29vcFN0YWdlLTY="
+          },
+          "grade": {
+            "name": "Eggsecutive VP",
+            "id": "Q29vcEdyYWRlLTg="
+          },
+          "gradePoint": 740
+        },
+        {
+          "coopStage": {
+            "coopStageId": 8,
+            "name": "Jammin' Salmon Junction",
+            "image": {
+              "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v2/stage_img/icon/high_resolution/0e05d4caa34089a447535708370286f4ee6068661359b4d7cf6c319863424f84_0.png?Expires=1736467200\u0026Signature=tl11E71hT4QXuW-hn~4Uf7oTdmjOCTqFEz8JFOXKORA4BhHY-h8Vub1mRuD1ZLVvTfA6VDfO2MT7Vr4bPQDiKC8NXjEraDTqu3Cw7iXqb23gCHRRk55UgY2B0YtX5aYdvQioemJ3JGcSyHpUXccrnYIXzcD2FwdH3QAcGi~E0AGa0mVwAdK-iU7uaBq7owVGowR9lFgqtt2j4wGDGF1xlwb6dV-Ja~PZ7mS1sbL3LRX4SOKf4epnJb5ewg4KKI3FVNS66Ohl0fZJAhBGPNcvAiwSKbSIzKPwI8IRzvAPsDOzRqizl-0mjnPbqvBgwKDbd7jqQsrMQ7KZDLlbFGawUg__\u0026Key-Pair-Id=KNBS2THMRC385"
+            },
+            "id": "Q29vcFN0YWdlLTg="
+          },
+          "grade": {
+            "name": "Eggsecutive VP",
+            "id": "Q29vcEdyYWRlLTg="
+          },
+          "gradePoint": 500
+        },
+        {
+          "coopStage": {
+            "coopStageId": 4,
+            "name": "Salmonid Smokeyard",
+            "image": {
+              "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v2/stage_img/icon/high_resolution/630d89698e3e260ef12cb2a32e1cb2c4c83c0e58fc882762da1fa2cea19a5260_0.png?Expires=1736467200\u0026Signature=sQdV6OZXaSHAON9FAb0JFGxaJH5b3pHd0PBVyT~Dolw7JWgZybELhlCkR3FgZ118dA7FUzA~fjRqKXgfd0Ws1nQH6XUtKRPggckLF-GH7EzsOWqoZca~Bqr7Q893SY5psR-SD74DKMNgwyHV7dvenVuvcUn0NgkPOrucjsmbRS6R9s~i47fWkTx7bhY2FcEZKvhZknuf6h-aOFaPByvlRozsRaRLVUb3schtaAbG2YiaZTFR1WE0bMHSc-9P8ZoPSIz2smLbzQn1aNrMoOXjQSA98-IFRT8jK9vaDmxABJYsHwQXmllbg4x-t4y5U2o~wzJNoGx3WN5Uqm8xjDt0yA__\u0026Key-Pair-Id=KNBS2THMRC385"
+            },
+            "id": "Q29vcFN0YWdlLTQ="
+          },
+          "grade": {
+            "name": "Eggsecutive VP",
+            "id": "Q29vcEdyYWRlLTg="
+          },
+          "gradePoint": 999
+        },
+        {
+          "coopStage": {
+            "coopStageId": 9,
+            "name": "Bonerattle Arena",
+            "image": {
+              "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v2/stage_img/icon/high_resolution/5f09625c9031652ca1edcf8028265b03ecc28475ab3d56910960a68430d7948a_0.png?Expires=1736467200\u0026Signature=mX-4URevT28pusYnikX4WgHyNOVIHaC5aupVxg9XlZO9gA2GR6SO45APrX6sEbXP5SvmN3J99MOX9lDrhgTOMR63DgC5MkzbS-N1NJp0DB8RJ9pCKe0chMuHhB00~ryLJkYvUJmjaTex4vbwoTCy6FUF4gj4mK~R2mdy6NE62BYMUSDtji4GuoP-c9fdwOnc9BaSn63NsrxOSoLefNxhL-inp~aJU-FuzyytpWYr7YARyEWIO1O1~~EEoCJPGvJL74zZEaDufb0GifKFhL4ro8kn8u9aw7TWeNJGo6FpioCKhgtp7VJV0~PYGySCiwzcAEOVa~gOPG3KY5RYkMBywg__\u0026Key-Pair-Id=KNBS2THMRC385"
+            },
+            "id": "Q29vcFN0YWdlLTk="
+          },
+          "grade": {
+            "name": "Eggsecutive VP",
+            "id": "Q29vcEdyYWRlLTg="
+          },
+          "gradePoint": 210
+        }
+      ],
+      "bigRunRecord": {
+        "records": {
+          "edges": [
+            {
+              "node": {
+                "startTime": "2024-03-09T00:00:00Z",
+                "endTime": "2024-03-11T00:00:00Z",
+                "trophy": "GOLD",
+                "coopStage": {
+                  "name": "Eeltail Alley",
+                  "image": {
+                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v2/stage_img/icon/high_resolution/30ad09621e6e7e525a2b30fc02ad11d33aadb1aae9e8ef5bd6cca6aef3db778c_0.png?Expires=1736467200\u0026Signature=fwBvNyCArLv2GXeJTaO3rGo5W~Huo8revFBenF7OI7rZGnygsywuc7WkLWurkRfQJbgALenEPXysEwxd5m1HQABmBDcqq3ubWlt0pmxZ~cnn2FVKASl9uss-xiXOHv3po0VvtarduIWIF0HkfuAkxnp2L-HYhZ8bpNHxAoT3~06e1zPC2KSVIXGBivFfheJin~7SPPuU2yLdgIzRvXTZC-O6loxnz7ml8URWwau9MXEWPdScoI64e3mYTbokEQQnyqfwcnW89zcVPGzlaqd08h1PXQinZyCJE6DuAW11m93FkwiOvNaL~Uw1Edp0clsXxMeQpMV8esGMRUz~NNS4GQ__\u0026Key-Pair-Id=KNBS2THMRC385"
+                  },
+                  "id": "Q29vcFN0YWdlLTEwNg=="
+                },
+                "highestGrade": {
+                  "name": "Eggsecutive VP",
+                  "id": "Q29vcEdyYWRlLTg="
+                },
+                "highestGradePoint": 820,
+                "highestJobScore": 151,
+                "rankPercentile": 7,
+                "__typename": "CoopBigRunRecordItem"
+              },
+              "cursor": "MQ"
+            },
+            {
+              "node": {
+                "startTime": "2023-12-02T00:00:00Z",
+                "endTime": "2023-12-04T00:00:00Z",
+                "trophy": "GOLD",
+                "coopStage": {
+                  "name": "Barnacle \u0026 Dime",
+                  "image": {
+                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v2/stage_img/icon/high_resolution/e7736b82a0a9b5c4b3777676f6d2d63ac3c612f1cd63df403153e77564c98b62_0.png?Expires=1736467200\u0026Signature=Pdxe5ahqDFZaUfoCXAvKyThHQ4Xtb6~-w1FeKlkat9b6EECUcgEjBo0ANJofmUmKcrH6jTmRGFmTFYUfUmZDYHSD34VxZljNXxDAFUboeZgK4fBlF8bfsp4G6pQHw1hLFBgWupvOXt1t1IatZt~-Fq2MEtk95d9pWJJRKT4UH34YTJfE6MwdnwH8BDJ0dPk5-NDRoOqrPo7tx-NXMi~PeNK7jAWM9aXofqcLEotUFsL34KnPSrQkJGuB9j8lUVY1Sn~g0ELOWfG0XtHiZA5vudg3lTq1KvxfNvx0ac~BunAh225XCGrSzbBtQhCNm5MuiegGvjYqUZBFyqmfx56NaQ__\u0026Key-Pair-Id=KNBS2THMRC385"
+                  },
+                  "id": "Q29vcFN0YWdlLTEwNQ=="
+                },
+                "highestGrade": {
+                  "name": "Eggsecutive VP",
+                  "id": "Q29vcEdyYWRlLTg="
+                },
+                "highestGradePoint": 999,
+                "highestJobScore": 187,
+                "rankPercentile": 2,
+                "__typename": "CoopBigRunRecordItem"
+              },
+              "cursor": "Mg"
+            },
+            {
+              "node": {
+                "startTime": "2023-09-02T00:00:00Z",
+                "endTime": "2023-09-04T00:00:00Z",
+                "trophy": "GOLD",
+                "coopStage": {
+                  "name": "Um'ami Ruins",
+                  "image": {
+                    "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v2/stage_img/icon/high_resolution/5894ed09915957be54e5b1eb58c4c52a9d5d89a99b1297e6d06eac07d47196d0_0.png?Expires=1736467200\u0026Signature=uBenAYi0ojcYIVEwnNQIjN94EJkdhYw01sba2ht8Y1EYVt9Vch9oGR5gRgIxQBVQhU1b1bOrn9EkoDkfVUWW7hEDgXJCOzajBml4J1pZubkU0gQeJxRrELU1WSfLHltts1XGuEJozf2EdZwj9KaBxDC5sCwoFNoPaWZyXDty21fzTxp7-9AhGMlzk38KA6qghX9S1AGOV6UMwTdWlwS-qqFBTs-eqBPr2CvSLoGqIbu51rEYBCPxmaElaqPBlA2KBq~temCuQLwbb6nbOVLTnnbv33EoCVfP8~PhdPnyhG80oAXbCGmXOTEk5LN3JXjOStzyBOGoAEnARRT-43O8Og__\u0026Key-Pair-Id=KNBS2THMRC385"
+                  },
+                  "id": "Q29vcFN0YWdlLTEwNA=="
+                },
+                "highestGrade": {
+                  "name": "Eggsecutive VP",
+                  "id": "Q29vcEdyYWRlLTg="
+                },
+                "highestGradePoint": 999,
+                "highestJobScore": 188,
+                "rankPercentile": null,
+                "__typename": "CoopBigRunRecordItem"
+              },
+              "cursor": "Mw"
+            }
+          ],
+          "pageInfo": {
+            "endCursor": "Mw",
+            "hasNextPage": true
+          }
+        }
+      },
+      "teamContestRecord": null,
+      "defeatEnemyRecords": [
+        {
+          "enemy": {
+            "coopEnemyId": 4,
+            "id": "Q29vcEVuZW15LTQ=",
+            "name": "Steelhead",
+            "image": {
+              "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v2/coop_enemy_img/f59fe344bd941f90dc8d3458ffd29b6586c1cffd00864967e7766a5a931dc4f6_0.png?Expires=1736467200\u0026Signature=wcpIaADaQAvlRBvzKrNnoFgEjxIL1ab2VvEc3ttXunpYomk-1ku-nGazZfbr~xJgzYAPQe0la9rVrOr5R6YKAiE7PAJwZsQCVEj2xsxDzT9yt5AWr08sx~M34oViVWIf5ksgS5BelIXp-W~CTEbPaMvuJEqEjIpChWcVu50zgVH6GakgFemJMnXiIBmJKT55apuiCPeygdr9dTSfAR9R1OZxqNfCWnOyq~j5UYgGd9lf1s8d2p7cM-G~jPaa3wpXp-7FXNEY8dCLjtmzwbsY14PVnJBOcTQXlj7WP1L5hrUUjoocrDReIrTPY-VoZMKS0qivsACmEmBJ10R1-Z1MVg__\u0026Key-Pair-Id=KNBS2THMRC385"
+            }
+          },
+          "defeatCount": 3175
+        },
+        {
+          "enemy": {
+            "coopEnemyId": 5,
+            "id": "Q29vcEVuZW15LTU=",
+            "name": "Flyfish",
+            "image": {
+              "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v2/coop_enemy_img/03c31763738c5628db6d8e7dd3ba0fd2fcb79a1f47694488b51969375148edde_0.png?Expires=1736467200\u0026Signature=Wc~kYCJUHB8U8iQpP7ATDCUjm39v86R7Gm0fBN5sOJVhKJggDEMnzh~I0nGbiKbswUmeo~hrsSn0o~FL2koB7QRr23eCYDlxDYPDC5Ek-vsynfONq5-Y6Em-x1kQqwohB~8n3BP2Q0EQqNmvkj5BScN5UOIwiBg6evnPj~utDrhVBJmdiDfkGXuOQRkQl8ofd6tues8Ck7KUeHX7294t-L7AR~93DMIRMQT2WDCovDAWlPbtsIRpSaSSLp~Wy2sP~i0W0QHFIuL7dJlsDNq5A70v6YLOPHatVBa9zcd0oJEfRnMqMV2sdr97rRDxne1OJQvwbnHMWzrqQPmeeaoJ~g__\u0026Key-Pair-Id=KNBS2THMRC385"
+            }
+          },
+          "defeatCount": 2422
+        },
+        {
+          "enemy": {
+            "coopEnemyId": 6,
+            "id": "Q29vcEVuZW15LTY=",
+            "name": "Scrapper",
+            "image": {
+              "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v2/coop_enemy_img/3a3e2c87b96b92e31ffc59a273b7d6aca20f9941e05ad84d6ae26092a627aa34_0.png?Expires=1736467200\u0026Signature=cOntZr2URXIN~in5~~z1hLZpW61o2RV35SyUtjL5MZC6BAbe9G-09vwIqTqKEgx4WnvZj6r-sEs2~lfuiVMQMbpxKC0GfrVj-aP514RuAT7a22VFsLe0Optwtfo1AfZg9dHMFuGtQGub9ryiY7aLVCN3E3rnXeUse5Tml6SBe8n4BNsqUEAD4B9jJ~XrSY16HjP-AAOSvvpUJ4bIT7urn0obwJ~iahfOcCPprNOnagrEP4bKGyLpq4DIk84WIpI4J7OjnH0Fi2KHQ4ysqeXXyQYIqR5qvmI2ic7HpuWYlMVXCdXZUG095TvM9Un0fORxewDyot8cgpFfk0hd4HuTuA__\u0026Key-Pair-Id=KNBS2THMRC385"
+            }
+          },
+          "defeatCount": 2320
+        },
+        {
+          "enemy": {
+            "coopEnemyId": 7,
+            "id": "Q29vcEVuZW15LTc=",
+            "name": "Steel Eel",
+            "image": {
+              "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v2/coop_enemy_img/999097a0908a4560f05a16e3f97c07b5d10bed22bee6d2ce0eedb2e6a6dcb9d0_0.png?Expires=1736467200\u0026Signature=wQgmpZlP6gO0AcsWbmiKIoRzWMTdGpboTXzq~ntz4vkjoAsot2bqzKqoq1zO4-L242iTzfNjma13pa8ZNa~YM21BeQ-oDUdWih9MRC2bBCiWSFinv9ePKx8PzpsD1wvh7KxXKEoTnXjOIpGjmloRQpKYwma5i0IY7jQLitfeRoSCY1041qhRHG6nx90KWWq3DlX93UsHuCLDBU8XiuQhw~iyw4GTYFqZObXliusu6OXJLbsXq-peUoXgRnv1~Fe0FWi8mbCaVdW1zwUUM09iVTyyok5gKZWI4M1td2wlcM3U64b37eRzQ9tGznUmXJXNGOYK7XTr~IKPUjmmzz0YqQ__\u0026Key-Pair-Id=KNBS2THMRC385"
+            }
+          },
+          "defeatCount": 2622
+        },
+        {
+          "enemy": {
+            "coopEnemyId": 8,
+            "id": "Q29vcEVuZW15LTg=",
+            "name": "Stinger",
+            "image": {
+              "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v2/coop_enemy_img/2d740da6f03364c3c289625455374f734fd8a96b25c26fde13912e90f3aea68c_0.png?Expires=1736467200\u0026Signature=qxiyh2otvbAryfYqumjTq88Bi9qRzp9ktHhTb9hmQ5lK5nHH1uey7pbEZdrMANKvYjHuM9Z-WbVa6DXyAYKheKXz56MLSt4mNnSbUH~uY9OdRv1VvpcqaT11r~lEcWG47CYdLGo0H~IyYiNLKJFfle35SeRen4AKJHeBwEePhct88j2P9OiF0bMozKETwi-JCZA0~dZiJNhIQw3ZfJB1tdVTA0yikpaxLPpMylcmgEbwsNuOA6XbUBA7mIWjhm9ypYp38kZPXVObkWyPAozW70HLE-k1NFD6NdRVXvuzV2VQDI2hQs08jlISGL5tOGnKmoUw11nqrSyF3Ik3AqnNIQ__\u0026Key-Pair-Id=KNBS2THMRC385"
+            }
+          },
+          "defeatCount": 2914
+        },
+        {
+          "enemy": {
+            "coopEnemyId": 9,
+            "id": "Q29vcEVuZW15LTk=",
+            "name": "Maws",
+            "image": {
+              "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v2/coop_enemy_img/fd5abb7a9087c528e45a7a4e29c9c03d673b69d6f0ba2f424f6df8b732d9919a_0.png?Expires=1736467200\u0026Signature=KzgToawm6Nxh6DIys3mePIr35JiuDztW-WR~Hr6tNCOeFR2ZcT1M1pCG5wzhSqR-zGioUNZOoAmpNDYr8lMFTwYduarIG5pEzyt497XAjH~Cz~qyaZSx483GoW4MCfeIGYSHvAzWu0iR7M12QuDKZ-4uX50rwPfOeeKTKGz~gUujjZGJxOXfhf2KwRaTvklwqkK1FtTMuizvqGj1EZLhJghs40SMx3PcWP~ZiWP3WqF82ayYrQs-PKU-ebl0xDL9XfrBmpajofIwuXMzM0W8K2-JY5PSLLdQKTvvyNQDsEBWhD7gtWCMPS-Er7Rb3-BSXXWlXvV6hdHpNLdJxuWgaw__\u0026Key-Pair-Id=KNBS2THMRC385"
+            }
+          },
+          "defeatCount": 2126
+        },
+        {
+          "enemy": {
+            "coopEnemyId": 10,
+            "id": "Q29vcEVuZW15LTEw",
+            "name": "Drizzler",
+            "image": {
+              "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v2/coop_enemy_img/faed7977b2144ac5979de0ca7d23aefd507e517c3fbe19431054ac5a6ba300fa_0.png?Expires=1736467200\u0026Signature=ZxKPxedLd1u7I95deyFceZxAPi22TWyj7OPPsDa1KBmX-KUVJY3lzQH99Iqt2wOH11X76VZW8hPFauw-K2Pktwj~3OoRpF7sO~AQk52erWGKWPpDVnucOpnbFeapLldSq5hmM1RYFKaQVAZGH1w-ZLCBX0ykyuGX0KO68~hrUa3VCZUcVDLqcJrrXtst3VUo1GFOZ7SzVtqxXXv6Bko6yTtcDMMssdZGGmhMhRMyMkjZ7JKnJbrhB7er97b8VIu3RF~1cFB1ElF784mRT0IPS41bNM6eEl~LSLcfMrQ-nGfHfo0SNBdK5QwgIvp059N9CZx2JgmUIz5Ehc~UNS-Sbg__\u0026Key-Pair-Id=KNBS2THMRC385"
+            }
+          },
+          "defeatCount": 2609
+        },
+        {
+          "enemy": {
+            "coopEnemyId": 11,
+            "id": "Q29vcEVuZW15LTEx",
+            "name": "Fish Stick",
+            "image": {
+              "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v2/coop_enemy_img/fb4851c75f62b8b50d9bac2128d6ef1c703c7884b63402762ddf78c1555e364a_0.png?Expires=1736467200\u0026Signature=OHiLJe6RjfOM29ixQPJ32aiRd6yEiyaH~Uu7KZpja5HMJQBK7Lf5HrOMaMnK1Uuu3wYMaOZYBjUvg6uxzejkBtmNAWs5x0NgDB0PNPACI1TmbuHcO89XcvCB4cOh3iFv8yC-aO1WEFHo8j01~Mi0XHvUJT00sNVGZwd9yWAzVcHwRzsBod9ClbuyqcGskhz6-1wN2tbzZX21G0en01ohUhJHk6x2ovgH2uGIbh3~ikabxUNXpb6Asza1-L76RLPLZuwFFGQSVxIOq4bJrCfWGVGrUr0Z-ZvU~xncXNG1jJ8ZSi4MBt9~Bu9gRoVfE89fhdHWvqYkPujH1wDuzElzEg__\u0026Key-Pair-Id=KNBS2THMRC385"
+            }
+          },
+          "defeatCount": 1236
+        },
+        {
+          "enemy": {
+            "coopEnemyId": 12,
+            "id": "Q29vcEVuZW15LTEy",
+            "name": "Flipper-Flopper",
+            "image": {
+              "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v2/coop_enemy_img/dbbf89da359fd880db49730ecc4f66150b148274aa005e22c1152cbf1a45e378_0.png?Expires=1736467200\u0026Signature=j0-lhPSbF1GchrwPxspOEIeH87a9r~H4ZPwcG1yWK5-OEaitU0WV4aSvFwjhvVUY6kHVudzQMl87BIqHxQSxHmhjq3AsA~mIDmc2gMHrMVb7pESqjpeDE16VTxNCFEs9YcfMZmrEkfCgE7~FqRH6-Xe8h-JZdd-wwR6-Q-xsp2SPFcbgoD1Y5UsnEL7D-HOkSsxQycF4UhU~XoqHT9QsQ7kva-ECXhA6b924UVVL0yC9C4u3V~8qJOzd3I4Ikc8PLTD1IFlfEeYq5yc8lFwMN7oQaa2acusZJ9LlTKYXNgvQKhM1O5KHhaZYWwUqqx97QGojqT48oQJRvJUxQGfDMg__\u0026Key-Pair-Id=KNBS2THMRC385"
+            }
+          },
+          "defeatCount": 1786
+        },
+        {
+          "enemy": {
+            "coopEnemyId": 13,
+            "id": "Q29vcEVuZW15LTEz",
+            "name": "Big Shot",
+            "image": {
+              "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v2/coop_enemy_img/2c7a648b4c73f291b5ede9c55f33d4e3f99c263d3a27ef3d2eb2a96d328d66ac_0.png?Expires=1736467200\u0026Signature=puReKQZoCWkHZkJRtpMFFTnaWJGx1gwc4vp~FQKeqlWZkM4ZTy1I~lcShLpq~aErToVB6dXQanPIDE~-Zsqm8jziu5uiZDWvteiS6jljsS715~gYz97QunbG8Xry~14nZoO3FIfNoh1uXqQoRgPgnFT2MXstgLID-EKmGd7e36EUMD~NIdlaCVMHNeBi5f6geILk~wWmH6tg3z4E-hqKllcDnjprZovA4uaMGnXXxBLh2cE5L9uumRBNEzRJ4x13E6qGvRhRItdzPrVUfRQvp7Y1hNFVKwWIN3pQhgOh7GeAIinNkGzCWtVdPNwf78ampz2u4HN20gymvJzWO3633Q__\u0026Key-Pair-Id=KNBS2THMRC385"
+            }
+          },
+          "defeatCount": 1256
+        },
+        {
+          "enemy": {
+            "coopEnemyId": 14,
+            "id": "Q29vcEVuZW15LTE0",
+            "name": "Slammin' Lid",
+            "image": {
+              "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v2/coop_enemy_img/2185696079cc39328cd69f0570e219f09b61d4a56508260fe97b16347ae8a55f_0.png?Expires=1736467200\u0026Signature=IIusiu~OHmOExwabLfoJWkCb~cBjSO1Z-eFWyxsvr2y54FgGVX77UYBaENuQqq7fcQ4TcNCbj~~MVs0Mba-~GZ6XC~EbhxOnz6IE7JZLEcmAaHmptRPPNglM1egh9XcYvW~AF4jXgeIStvxUxVIHYtB9Ws3KKFMquxlwUO-uaJBihBU0fpfpGKzU9-aWYMw3ZpAEeb57sT5MG5OvSO-DbS4ifClxrZ0TDNVTIp14PPbovLy-WVAkns5HHBiC4b5n9x3GDzvZxku7MjmUAbziAwff~YjOW9h8t5eayX-fdA-lfYRR1I-lRqQLHvWPHyjtygv~Q~1WdLRPEq~Y1VbZ1w__\u0026Key-Pair-Id=KNBS2THMRC385"
+            }
+          },
+          "defeatCount": 1640
+        }
+      ],
+      "defeatBossRecords": [
+        {
+          "enemy": {
+            "coopEnemyId": 23,
+            "id": "Q29vcEVuZW15LTIz",
+            "name": "Cohozuna",
+            "image": {
+              "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v2/coop_enemy_img/75f39ca054c76c0c33cd71177780708e679d088c874a66101e9b76b001df8254_0.png?Expires=1736467200\u0026Signature=rLjByawX2oKtFE7ocR2LaqSS0RonC056IFksEky0e6HNr5dqQuRJcUGia0loFjTH25rcPlxaM5GGkRp2rmN6LYft9jMCK3R1xTLXoCfL0pb6iKzEiB~UiYvLUyulo8s-2PFw9iMkOSzF2HsD4Owb462ZrMkGFncvwEFQ4~fstxr4EyMO-~duAOnJEkFKbngmCmHuSnOhBr93rhgZjyGjBO7WVvx7KCNq7tbdSBDeFbb6Uvby93c5JgJYnqO5FQ4SNdNYYyqz0Nb~QO26szD4NC7a5sDJi4aQIkKTZcytk5v9mw-MYP92r2pAem3t01smyR0SGkjTlhenv5K0XptmGw__\u0026Key-Pair-Id=KNBS2THMRC385"
+            }
+          },
+          "defeatCount": 132
+        },
+        {
+          "enemy": {
+            "coopEnemyId": 24,
+            "id": "Q29vcEVuZW15LTI0",
+            "name": "Horrorboros",
+            "image": {
+              "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v2/coop_enemy_img/0ee5853c43ebbef00ee2faecbd6c74f8a2d5e5b62b2cfa96d3838894b71381cb_0.png?Expires=1736467200\u0026Signature=Fesl3qp3Fd1qA6sRNps3Qtj1PlWUxh95qweGOVbKtj~GDShfalnLYrVNQ8h2ReJXIyWmnpSRuLsZMaZgevicDCmPzRHhs7~i-mukV8iS71yiDEkzsqu0YtWAHF2ROb3A1wfJitRktgpCCuXGfpkZwjI65GK4Pzmtr~COJkH5AqPKh-OFhH2FfYW2TFCe374EeRrKIeqeH18nXXusM1beq9Qh5qcI-5lE4Xdn4QSeEOPjAO1eVqgT8Vf6CxBnCU2xM40Ux4R84yz6DCxpoFdo5DIJcpy1P~D7iM7Y9zMPvtZwlJ2VljOj2zoAHzD3Dn2pAsx7JuP21vW7GVxIyRbD5Q__\u0026Key-Pair-Id=KNBS2THMRC385"
+            }
+          },
+          "defeatCount": 88
+        },
+        {
+          "enemy": {
+            "coopEnemyId": 25,
+            "id": "Q29vcEVuZW15LTI1",
+            "name": "Megalodontia",
+            "image": {
+              "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v2/coop_enemy_img/82905ebab16b4790142de406c78b1bf68a84056b366d9e19ae3360fb432fe0a9_0.png?Expires=1736467200\u0026Signature=lBLpj375keCf6aPaaoyK45o6U37dQdH4L~BJkjSK0lR~sA-FiCGX~ykRA79giqQLPe~DDuOIoicK2Z7ESKqAorTVhER8CRZfbd8H6KEDOqnh~XSERBn3~CcM2q9P9Y6WMwjq-7-oKO9Del8kMHGZnQ6CikisWUJbLRQN2drbpsTNI1LMU7IspruORdMbXILEmol3tFTZMMrXVpLHmSI2sMf9GV4llQ6eX05ZJfzfNtaJndxaya~R6umCHPOc1Ao7Pz418p4ukEYVh2NkM1Vq3hjYPhvkZ~rHZhn5FVYIdSotAsURGJJBDAyMhncjHH~zN38elsuTdtSrda6QlBtLOw__\u0026Key-Pair-Id=KNBS2THMRC385"
+            }
+          },
+          "defeatCount": 34
+        },
+        {
+          "enemy": {
+            "coopEnemyId": 30,
+            "id": "Q29vcEVuZW15LTMw",
+            "name": "Triumvirate",
+            "image": {
+              "url": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v2/coop_enemy_img/a29cdb61df1464ef45ddedc7a042fd8f4fab0fd1c7c0c694df708d0b61e21222_0.png?Expires=1736467200\u0026Signature=v-UZnwGgIGFwOsy7uSHII7VA9ASAnC648YN2sDAzLnt9sEVxgHSYCh3OYKdFWGXGG9RZQYM9Kl4AX2egHAZZhxGGx73ZVVTEak2W6c6u7vF7x9mZebc9sMjBbjsGS3c1lxpX7FHjtAIG4bGGbT6gN4PSgD3KRKz3VLH~7D7QVyLTCRIGNWjReGqKw5R4lf7aPY78mySOpisTY04ZJtoRDnpJwYANkPLC2JIuJ5mY8R03fYIB8z6-jZuKwJ1Bw7X-aQXnYAc6Wg0XpwRV1DUy89RMWh8TQNn0UgA2STcOE0c1w0ohsw1dK~As~DLEda2ho4MPWIZNxC4-EB5HPsPBUw__\u0026Key-Pair-Id=KNBS2THMRC385"
+            }
+          },
+          "defeatCount": 0
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "id": "bfbd586049d5a32beddbf6268a110fe6",
+  "uuid": "5f8c37e1-fabb-41fb-aba2-2548ad6b127e",
+  "scale": [7, 5, 1],
+  "myResult": {
+    "id": "4648708c461edfa7a55cc7cfbbb88f92",
+    "byname": "Charmed Daredevil",
+    "name": "´ω` Waffle",
+    "nameId": "3191",
+    "nameplate": {
+      "badges": [6000100, 4000100, 6000105],
+      "background": {
+        "id": 15042,
+        "textColor": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    },
+    "uniform": 20,
+    "species": "INKLING",
+    "weaponList": [60, 210, 260, 4020],
+    "isMyself": true,
+    "nplnUserId": "azdswcyquqxwekbm7mmm",
+    "specialId": 20017,
+    "ikuraNum": 1565,
+    "goldenIkuraNum": 12,
+    "goldenIkuraAssistNum": 27,
+    "helpCount": 0,
+    "deadCount": 0,
+    "bossKillCounts": [4, 0, 2, 4, 1, 0, 2, 3, 1, 3, 2, 0, 0, 0],
+    "bossKillCountsTotal": 22,
+    "jobScore": 164,
+    "gradeId": 8,
+    "kumaPoint": 633,
+    "gradePoint": 950,
+    "smellMeter": 3,
+    "specialCounts": [0, 0, 1, 1],
+    "jobBonus": 100,
+    "jobRate": 3.25
+  },
+  "otherResults": [
+    {
+      "id": "ee1bf43cf753ad1b8d57cec6acf2f36c",
+      "byname": "Thank You for Playing",
+      "name": "Joeèéêëēęě",
+      "nameId": "1200",
+      "nameplate": {
+        "badges": [1011001, 5211000, 1011011],
+        "background": {
+          "id": 15023,
+          "textColor": {
+            "r": 1,
+            "g": 1,
+            "b": 1,
+            "a": 1
+          }
+        }
+      },
+      "uniform": 9,
+      "species": "OCTOLING",
+      "weaponList": [20, 60, 4020, 210],
+      "isMyself": false,
+      "nplnUserId": "q3p32ish266yxrtipnmm",
+      "specialId": 20010,
+      "ikuraNum": 1191,
+      "goldenIkuraNum": 40,
+      "goldenIkuraAssistNum": 20,
+      "helpCount": 0,
+      "deadCount": 0,
+      "bossKillCounts": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "bossKillCountsTotal": 17,
+      "jobScore": null,
+      "gradeId": null,
+      "kumaPoint": null,
+      "gradePoint": null,
+      "smellMeter": null,
+      "specialCounts": [0, 0, 2, 1],
+      "jobBonus": null,
+      "jobRate": null
+    },
+    {
+      "id": "cd0e8417bd05804f2e9a524a499dcaf8",
+      "byname": "Lonely Mirror",
+      "name": "player",
+      "nameId": "2651",
+      "nameplate": {
+        "badges": [5000070, 5000020, 5200010],
+        "background": {
+          "id": 17002,
+          "textColor": {
+            "r": 1,
+            "g": 1,
+            "b": 1,
+            "a": 1
+          }
+        }
+      },
+      "uniform": 7,
+      "species": "INKLING",
+      "weaponList": [210, 4020, 60, 90],
+      "isMyself": false,
+      "nplnUserId": "a3v3s3x76psxpkxhanmm",
+      "specialId": 20013,
+      "ikuraNum": 2122,
+      "goldenIkuraNum": 27,
+      "goldenIkuraAssistNum": 12,
+      "helpCount": 0,
+      "deadCount": 0,
+      "bossKillCounts": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "bossKillCountsTotal": 19,
+      "jobScore": null,
+      "gradeId": null,
+      "kumaPoint": null,
+      "gradePoint": null,
+      "smellMeter": null,
+      "specialCounts": [0, 0, 2, 1],
+      "jobBonus": null,
+      "jobRate": null
+    },
+    {
+      "id": "97d7016143c17b271a688cc4432afef7",
+      "byname": "Meaty Marina Fan",
+      "name": "★βrαdγβεcκ",
+      "nameId": "8222",
+      "nameplate": {
+        "badges": [5000023, 5000073, 5000063],
+        "background": {
+          "id": 852,
+          "textColor": {
+            "r": 1,
+            "g": 1,
+            "b": 1,
+            "a": 1
+          }
+        }
+      },
+      "uniform": 15,
+      "species": "INKLING",
+      "weaponList": [4020, 70, 210, 60],
+      "isMyself": false,
+      "nplnUserId": "afv4z2qltugdq2trsnmm",
+      "specialId": 20012,
+      "ikuraNum": 1454,
+      "goldenIkuraNum": 54,
+      "goldenIkuraAssistNum": 10,
+      "helpCount": 0,
+      "deadCount": 0,
+      "bossKillCounts": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "bossKillCountsTotal": 24,
+      "jobScore": null,
+      "gradeId": null,
+      "kumaPoint": null,
+      "gradePoint": null,
+      "smellMeter": null,
+      "specialCounts": [0, 0, 2, 1],
+      "jobBonus": null,
+      "jobRate": null
+    }
+  ],
+  "jobResult": {
+    "failureWave": null,
+    "isClear": true,
+    "bossId": 25,
+    "isBossDefeated": true
+  },
+  "playTime": "2024-06-22T16:41:58.000Z",
+  "bossCounts": [11, 8, 6, 8, 9, 5, 9, 10, 5, 4, 8, 0, 0, 0],
+  "bossKillCounts": [10, 6, 6, 8, 9, 4, 8, 10, 5, 3, 8, 0, 0, 0],
+  "dangerRate": 3.33,
+  "ikuraNum": 6332,
+  "goldenIkuraNum": 133,
+  "goldenIkuraAssistNum": 69,
+  "scenarioCode": null,
+  "waveDetails": [
+    {
+      "id": "c728ed0ed315f1bfab7d764ead350008",
+      "waterLevel": 1,
+      "eventType": 0,
+      "quotaNum": 30,
+      "goldenIkuraPopNum": 84,
+      "goldenIkuraNum": 38,
+      "waveId": 1,
+      "isClear": true
+    },
+    {
+      "id": "1d74354d462d12ca34bb580be8afbba5",
+      "waterLevel": 0,
+      "eventType": 6,
+      "quotaNum": 32,
+      "goldenIkuraPopNum": 93,
+      "goldenIkuraNum": 41,
+      "waveId": 2,
+      "isClear": true
+    },
+    {
+      "id": "c4d2f771330910bbc10b6d4cda69acda",
+      "waterLevel": 0,
+      "eventType": 7,
+      "quotaNum": 35,
+      "goldenIkuraPopNum": 100,
+      "goldenIkuraNum": 54,
+      "waveId": 3,
+      "isClear": true
+    },
+    {
+      "id": "f295213e3836648ad608e834061d289d",
+      "waterLevel": 0,
+      "eventType": 0,
+      "quotaNum": null,
+      "goldenIkuraPopNum": 45,
+      "goldenIkuraNum": null,
+      "waveId": 4,
+      "isClear": true
+    }
+  ]
+}

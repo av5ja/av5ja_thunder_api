@@ -1,0 +1,292 @@
+{
+  "histories": [
+    {
+      "schedule": {
+        "id": "103c5441a163fd2b0320751f27c9c577",
+        "startTime": "2024-04-06T16:00:00.000Z",
+        "endTime": "2024-04-08T08:00:00.000Z",
+        "mode": "REGULAR",
+        "rule": "REGULAR",
+        "stageId": 9,
+        "rareWeapons": [],
+        "weaponList": [-1, -1, -1, -1]
+      },
+      "results": [
+        {
+          "id": "a45b3f22a13149f6000218c1811d5767",
+          "uuid": "06b30acf-9729-4bd5-96ad-3191dd266dee",
+          "schedule": {
+            "id": "103c5441a163fd2b0320751f27c9c577",
+            "startTime": "2024-04-06T16:00:00.000Z",
+            "endTime": "2024-04-08T08:00:00.000Z",
+            "mode": "REGULAR",
+            "rule": "REGULAR",
+            "stageId": 9,
+            "rareWeapons": [],
+            "weaponList": [-1, -1, -1, -1]
+          },
+          "scale": [11, 2, 0],
+          "myResult": {
+            "id": "6dae617855fda353cb4497a125f95849",
+            "byname": "Splatlandian Youth",
+            "name": "アウラ のうひんしろ",
+            "nameId": "1012",
+            "nameplate": {
+              "badges": [null, null, null],
+              "background": {
+                "textColor": {
+                  "a": 1,
+                  "b": 1,
+                  "g": 1,
+                  "r": 1
+                },
+                "id": 1
+              }
+            },
+            "uniform": 1,
+            "species": "INKLING",
+            "weaponList": [3050, 1120, 4010, 27900],
+            "specialCounts": [0, 0, 0, 1],
+            "isMyself": true,
+            "nplnUserId": "a7grz65rxkvhfsbwmxmm",
+            "specialId": 20010,
+            "ikuraNum": 867,
+            "goldenIkuraNum": 21,
+            "goldenIkuraAssistNum": 11,
+            "helpCount": 0,
+            "deadCount": 2,
+            "bossKillCounts": [1, 1, 2, 0, 0, 0, 3, 0, 0, 3, 1, 0, 0, 0],
+            "bossKillCountsTotal": 11,
+            "jobScore": 131,
+            "gradeId": 8,
+            "kumaPoint": 427,
+            "gradePoint": 210,
+            "smellMeter": 5,
+            "jobBonus": 100,
+            "jobRate": 2.5
+          },
+          "otherResults": [
+            {
+              "id": "3138b358a9a7a07ad7786a33707fcb0d",
+              "byname": "Brand-New Seafood",
+              "name": "ちくわ",
+              "nameId": "7069",
+              "nameplate": {
+                "badges": [null, 6000003, 6000002],
+                "background": {
+                  "textColor": {
+                    "a": 1,
+                    "b": 0.117647097,
+                    "g": 0.00784313772,
+                    "r": 0.149019599
+                  },
+                  "id": 971
+                }
+              },
+              "uniform": 16,
+              "species": "INKLING",
+              "weaponList": [7010, 2060, 60, 22900],
+              "specialCounts": [0, 0, 1, 1],
+              "isMyself": false,
+              "nplnUserId": "qeup3z2uqf4kru6hanmm",
+              "specialId": 20014,
+              "ikuraNum": 938,
+              "goldenIkuraNum": 24,
+              "goldenIkuraAssistNum": 2,
+              "helpCount": 0,
+              "deadCount": 2,
+              "bossKillCounts": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+              ],
+              "bossKillCountsTotal": 18,
+              "jobScore": null,
+              "gradeId": null,
+              "kumaPoint": null,
+              "gradePoint": null,
+              "smellMeter": null,
+              "jobBonus": null,
+              "jobRate": null
+            },
+            {
+              "id": "3ba0d24f6be18c85d56f93f89f55eab4",
+              "byname": "Limited-Edition Inkbrush User",
+              "name": "ゲストCCCCCもち",
+              "nameId": "4152",
+              "nameplate": {
+                "badges": [1011010, 1011110, 1011210],
+                "background": {
+                  "textColor": {
+                    "a": 1,
+                    "b": 0,
+                    "g": 0,
+                    "r": 0
+                  },
+                  "id": 11008
+                }
+              },
+              "uniform": 8,
+              "species": "INKLING",
+              "weaponList": [20900, 4020, 25900, 2030],
+              "specialCounts": [1, 0, 1, 1],
+              "isMyself": false,
+              "nplnUserId": "qloffovesrnzgiovanmm",
+              "specialId": 20012,
+              "ikuraNum": 1569,
+              "goldenIkuraNum": 30,
+              "goldenIkuraAssistNum": 2,
+              "helpCount": 2,
+              "deadCount": 2,
+              "bossKillCounts": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+              ],
+              "bossKillCountsTotal": 12,
+              "jobScore": null,
+              "gradeId": null,
+              "kumaPoint": null,
+              "gradePoint": null,
+              "smellMeter": null,
+              "jobBonus": null,
+              "jobRate": null
+            },
+            {
+              "id": "f01c934715e86a96df0221fe8f7145a9",
+              "byname": "Big Honkin' Dried Fish",
+              "name": "ねぶそく",
+              "nameId": "9138",
+              "nameplate": {
+                "badges": [null, null, null],
+                "background": {
+                  "textColor": {
+                    "a": 1,
+                    "b": 0.0705899969,
+                    "g": 0.0705899969,
+                    "r": 0.0901999995
+                  },
+                  "id": 863
+                }
+              },
+              "uniform": 14,
+              "species": "INKLING",
+              "weaponList": [30, 27900, 50, 8010],
+              "specialCounts": [0, 0, 0, 1],
+              "isMyself": false,
+              "nplnUserId": "agypbuve73vt3o3pnnmm",
+              "specialId": 20017,
+              "ikuraNum": 558,
+              "goldenIkuraNum": 38,
+              "goldenIkuraAssistNum": 2,
+              "helpCount": 4,
+              "deadCount": 0,
+              "bossKillCounts": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+              ],
+              "bossKillCountsTotal": 12,
+              "jobScore": null,
+              "gradeId": null,
+              "kumaPoint": null,
+              "gradePoint": null,
+              "smellMeter": null,
+              "jobBonus": null,
+              "jobRate": null
+            }
+          ],
+          "jobResult": {
+            "failureWave": null,
+            "isClear": true,
+            "bossId": 24,
+            "isBossDefeated": true
+          },
+          "playTime": "2024-04-06T17:57:52.000Z",
+          "bossCounts": [3, 6, 8, 4, 5, 3, 8, 2, 10, 3, 8, 0, 0, 0],
+          "bossKillCounts": [3, 2, 7, 4, 4, 3, 8, 2, 9, 3, 8, 0, 0, 0],
+          "dangerRate": 2.35,
+          "ikuraNum": 3932,
+          "goldenIkuraNum": 112,
+          "goldenIkuraAssistNum": 17,
+          "scenarioCode": null,
+          "waveDetails": [
+            {
+              "waterLevel": 0,
+              "eventType": 0,
+              "quotaNum": 27,
+              "goldenIkuraPopNum": 66,
+              "goldenIkuraNum": 42,
+              "waveId": 1,
+              "isClear": true,
+              "id": "322f97d371c376f6608523f009190877"
+            },
+            {
+              "waterLevel": 1,
+              "eventType": 0,
+              "quotaNum": 29,
+              "goldenIkuraPopNum": 60,
+              "goldenIkuraNum": 32,
+              "waveId": 2,
+              "isClear": true,
+              "id": "fef00683272177d277d0873c10f8c4b2"
+            },
+            {
+              "waterLevel": 1,
+              "eventType": 4,
+              "quotaNum": 31,
+              "goldenIkuraPopNum": 49,
+              "goldenIkuraNum": 38,
+              "waveId": 3,
+              "isClear": true,
+              "id": "0978e31c1e3518085537ce75f864181e"
+            },
+            {
+              "waterLevel": 1,
+              "eventType": 0,
+              "quotaNum": null,
+              "goldenIkuraPopNum": 30,
+              "goldenIkuraNum": null,
+              "waveId": 4,
+              "isClear": true,
+              "id": "203cacf9d982ece13f58f94f25bb071c"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

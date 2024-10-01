@@ -1,0 +1,319 @@
+{
+  "histories": [
+    {
+      "schedule": {
+        "id": "4f879690d7e8b2137ca73d204fd3dfe3",
+        "startTime": null,
+        "endTime": null,
+        "mode": "PRIVATE_CUSTOM",
+        "rule": "REGULAR",
+        "bossId": null,
+        "stageId": 7,
+        "rareWeapons": [],
+        "weaponList": [6010, 2030, 3040]
+      },
+      "results": [
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "agmwjnyghvzbaavt5mmm",
+          "playTime": "2022-11-16T04:16:06.000Z",
+          "uuid": "5bc88107-6272-404a-b0c8-0bd79f1d6feb"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "agmwjnyghvzbaavt5mmm",
+          "playTime": "2022-09-23T12:43:52.000Z",
+          "uuid": "17fa4602-84f3-4c22-840c-15e70f80640e"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "agmwjnyghvzbaavt5mmm",
+          "playTime": "2022-09-23T12:35:17.000Z",
+          "uuid": "17fa4602-84f3-4c22-840c-15e70f80640e"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "agmwjnyghvzbaavt5mmm",
+          "playTime": "2022-09-23T12:28:03.000Z",
+          "uuid": "17fa4602-84f3-4c22-840c-15e70f80640e"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "agmwjnyghvzbaavt5mmm",
+          "playTime": "2022-09-23T12:21:23.000Z",
+          "uuid": "17fa4602-84f3-4c22-840c-15e70f80640e"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "agmwjnyghvzbaavt5mmm",
+          "playTime": "2022-09-23T12:14:20.000Z",
+          "uuid": "17fa4602-84f3-4c22-840c-15e70f80640e"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "agmwjnyghvzbaavt5mmm",
+          "playTime": "2022-09-23T12:07:28.000Z",
+          "uuid": "17fa4602-84f3-4c22-840c-15e70f80640e"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "agmwjnyghvzbaavt5mmm",
+          "playTime": "2022-09-20T03:11:36.000Z",
+          "uuid": "a035c297-16c6-46f5-afd8-47f036d283c0"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "agmwjnyghvzbaavt5mmm",
+          "playTime": "2022-09-20T03:08:45.000Z",
+          "uuid": "a035c297-16c6-46f5-afd8-47f036d283c0"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "agmwjnyghvzbaavt5mmm",
+          "playTime": "2022-09-20T03:06:21.000Z",
+          "uuid": "a035c297-16c6-46f5-afd8-47f036d283c0"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "agmwjnyghvzbaavt5mmm",
+          "playTime": "2022-09-20T03:03:24.000Z",
+          "uuid": "a035c297-16c6-46f5-afd8-47f036d283c0"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "agmwjnyghvzbaavt5mmm",
+          "playTime": "2022-09-20T03:00:30.000Z",
+          "uuid": "a035c297-16c6-46f5-afd8-47f036d283c0"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "agmwjnyghvzbaavt5mmm",
+          "playTime": "2022-09-20T02:57:36.000Z",
+          "uuid": "a035c297-16c6-46f5-afd8-47f036d283c0"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "agmwjnyghvzbaavt5mmm",
+          "playTime": "2022-09-20T02:54:33.000Z",
+          "uuid": "a035c297-16c6-46f5-afd8-47f036d283c0"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "agmwjnyghvzbaavt5mmm",
+          "playTime": "2022-09-20T02:52:27.000Z",
+          "uuid": "a035c297-16c6-46f5-afd8-47f036d283c0"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "agmwjnyghvzbaavt5mmm",
+          "playTime": "2022-09-20T02:49:25.000Z",
+          "uuid": "a035c297-16c6-46f5-afd8-47f036d283c0"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "agmwjnyghvzbaavt5mmm",
+          "playTime": "2022-09-20T02:46:29.000Z",
+          "uuid": "a035c297-16c6-46f5-afd8-47f036d283c0"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "agmwjnyghvzbaavt5mmm",
+          "playTime": "2022-09-20T02:43:37.000Z",
+          "uuid": "a035c297-16c6-46f5-afd8-47f036d283c0"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "agmwjnyghvzbaavt5mmm",
+          "playTime": "2022-09-20T02:40:37.000Z",
+          "uuid": "a035c297-16c6-46f5-afd8-47f036d283c0"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "agmwjnyghvzbaavt5mmm",
+          "playTime": "2022-09-20T02:37:40.000Z",
+          "uuid": "a035c297-16c6-46f5-afd8-47f036d283c0"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "agmwjnyghvzbaavt5mmm",
+          "playTime": "2022-09-20T02:34:49.000Z",
+          "uuid": "a035c297-16c6-46f5-afd8-47f036d283c0"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "agmwjnyghvzbaavt5mmm",
+          "playTime": "2022-09-20T02:31:53.000Z",
+          "uuid": "a035c297-16c6-46f5-afd8-47f036d283c0"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "agmwjnyghvzbaavt5mmm",
+          "playTime": "2022-09-20T02:28:59.000Z",
+          "uuid": "a035c297-16c6-46f5-afd8-47f036d283c0"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "agmwjnyghvzbaavt5mmm",
+          "playTime": "2022-09-20T02:26:07.000Z",
+          "uuid": "a035c297-16c6-46f5-afd8-47f036d283c0"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "agmwjnyghvzbaavt5mmm",
+          "playTime": "2022-09-20T02:23:09.000Z",
+          "uuid": "a035c297-16c6-46f5-afd8-47f036d283c0"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "agmwjnyghvzbaavt5mmm",
+          "playTime": "2022-09-20T02:20:33.000Z",
+          "uuid": "a035c297-16c6-46f5-afd8-47f036d283c0"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "agmwjnyghvzbaavt5mmm",
+          "playTime": "2022-09-20T02:17:54.000Z",
+          "uuid": "a035c297-16c6-46f5-afd8-47f036d283c0"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "agmwjnyghvzbaavt5mmm",
+          "playTime": "2022-09-20T02:14:59.000Z",
+          "uuid": "a035c297-16c6-46f5-afd8-47f036d283c0"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "agmwjnyghvzbaavt5mmm",
+          "playTime": "2022-09-20T02:12:06.000Z",
+          "uuid": "a035c297-16c6-46f5-afd8-47f036d283c0"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "agmwjnyghvzbaavt5mmm",
+          "playTime": "2022-09-20T02:09:10.000Z",
+          "uuid": "a035c297-16c6-46f5-afd8-47f036d283c0"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "agmwjnyghvzbaavt5mmm",
+          "playTime": "2022-09-20T02:06:16.000Z",
+          "uuid": "a035c297-16c6-46f5-afd8-47f036d283c0"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "agmwjnyghvzbaavt5mmm",
+          "playTime": "2022-09-20T02:03:20.000Z",
+          "uuid": "a035c297-16c6-46f5-afd8-47f036d283c0"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "agmwjnyghvzbaavt5mmm",
+          "playTime": "2022-09-20T02:02:09.000Z",
+          "uuid": "a035c297-16c6-46f5-afd8-47f036d283c0"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "agmwjnyghvzbaavt5mmm",
+          "playTime": "2022-09-20T02:01:06.000Z",
+          "uuid": "a035c297-16c6-46f5-afd8-47f036d283c0"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "agmwjnyghvzbaavt5mmm",
+          "playTime": "2022-09-20T02:00:04.000Z",
+          "uuid": "a035c297-16c6-46f5-afd8-47f036d283c0"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "agmwjnyghvzbaavt5mmm",
+          "playTime": "2022-09-20T01:59:03.000Z",
+          "uuid": "a035c297-16c6-46f5-afd8-47f036d283c0"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "agmwjnyghvzbaavt5mmm",
+          "playTime": "2022-09-20T01:57:56.000Z",
+          "uuid": "a035c297-16c6-46f5-afd8-47f036d283c0"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "agmwjnyghvzbaavt5mmm",
+          "playTime": "2022-09-20T01:56:54.000Z",
+          "uuid": "a035c297-16c6-46f5-afd8-47f036d283c0"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "agmwjnyghvzbaavt5mmm",
+          "playTime": "2022-09-20T01:55:52.000Z",
+          "uuid": "a035c297-16c6-46f5-afd8-47f036d283c0"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "agmwjnyghvzbaavt5mmm",
+          "playTime": "2022-09-20T01:54:43.000Z",
+          "uuid": "a035c297-16c6-46f5-afd8-47f036d283c0"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "agmwjnyghvzbaavt5mmm",
+          "playTime": "2022-09-20T01:53:35.000Z",
+          "uuid": "a035c297-16c6-46f5-afd8-47f036d283c0"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "agmwjnyghvzbaavt5mmm",
+          "playTime": "2022-09-20T01:52:31.000Z",
+          "uuid": "a035c297-16c6-46f5-afd8-47f036d283c0"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "agmwjnyghvzbaavt5mmm",
+          "playTime": "2022-09-20T01:51:20.000Z",
+          "uuid": "a035c297-16c6-46f5-afd8-47f036d283c0"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "agmwjnyghvzbaavt5mmm",
+          "playTime": "2022-09-20T01:50:09.000Z",
+          "uuid": "a035c297-16c6-46f5-afd8-47f036d283c0"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "agmwjnyghvzbaavt5mmm",
+          "playTime": "2022-09-20T01:49:07.000Z",
+          "uuid": "a035c297-16c6-46f5-afd8-47f036d283c0"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "agmwjnyghvzbaavt5mmm",
+          "playTime": "2022-09-20T01:48:03.000Z",
+          "uuid": "a035c297-16c6-46f5-afd8-47f036d283c0"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "agmwjnyghvzbaavt5mmm",
+          "playTime": "2022-09-20T01:46:43.000Z",
+          "uuid": "a035c297-16c6-46f5-afd8-47f036d283c0"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "agmwjnyghvzbaavt5mmm",
+          "playTime": "2022-09-20T01:45:40.000Z",
+          "uuid": "a035c297-16c6-46f5-afd8-47f036d283c0"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "agmwjnyghvzbaavt5mmm",
+          "playTime": "2022-09-20T01:44:41.000Z",
+          "uuid": "a035c297-16c6-46f5-afd8-47f036d283c0"
+        },
+        {
+          "type": "CoopHistoryDetail",
+          "nplnUserId": "agmwjnyghvzbaavt5mmm",
+          "playTime": "2022-09-20T01:43:31.000Z",
+          "uuid": "a035c297-16c6-46f5-afd8-47f036d283c0"
+        }
+      ]
+    }
+  ]
+}
