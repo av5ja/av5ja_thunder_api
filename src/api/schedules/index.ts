@@ -3,38 +3,29 @@ import { cache } from 'hono/cache'
 import { HTTPMethod } from '@/enums/method'
 import { CoopSchedule, CoopScheduleQuery } from '@/models/coop_schedule.dto'
 import type { Bindings } from '@/utils/bindings'
+import { createPrismaClient } from '@/utils/prisma'
 
 export const app = new Hono<{ Bindings: Bindings }>()
 
 const UPSTREAM_URL = 'https://splatoon.oatmealdome.me/api/v1/three/coop/phases?count=5'
 const EDGE_TTL_SECONDS = 1800
 
-type ScheduleRow = {
-  id: string
-  start_time: string | null
-  end_time: string | null
-  mode: string
-  rule: string
-  boss_id: number | null
-  stage_id: number
-  rare_weapons: string
-  weapon_list: string
-}
-
 const readFromD1 = async (env: Bindings): Promise<CoopSchedule.Response[]> => {
-  const result = await env.SCHEDULES.prepare(
-    'SELECT id, start_time, end_time, mode, rule, boss_id, stage_id, rare_weapons, weapon_list FROM schedules ORDER BY start_time DESC LIMIT 50'
-  ).all<ScheduleRow>()
-  return result.results.map((row) =>
+  const prisma = createPrismaClient(env)
+  const rows = await prisma.schedule.findMany({
+    orderBy: { startTime: 'desc' },
+    take: 50
+  })
+  return rows.map((row) =>
     CoopSchedule.Response.parse({
-      startTime: row.start_time,
-      endTime: row.end_time,
+      startTime: row.startTime,
+      endTime: row.endTime,
       mode: row.mode,
       rule: row.rule,
-      bossId: row.boss_id ?? undefined,
-      stageId: row.stage_id,
-      rareWeapons: JSON.parse(row.rare_weapons),
-      weaponList: JSON.parse(row.weapon_list)
+      bossId: row.bossId ?? undefined,
+      stageId: row.stageId,
+      rareWeapons: JSON.parse(row.rareWeapons),
+      weaponList: JSON.parse(row.weaponList)
     })
   )
 }

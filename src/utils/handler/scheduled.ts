@@ -1,21 +1,8 @@
 import { CoopScheduleQuery } from '@/models/coop_schedule.dto'
 import type { Bindings } from '@/utils/bindings'
+import { createPrismaClient } from '@/utils/prisma'
 
 const UPSTREAM_URL = 'https://splatoon.oatmealdome.me/api/v1/three/coop/phases?count=5'
-
-const UPSERT_SQL = `INSERT INTO schedules
-  (id, start_time, end_time, mode, rule, boss_id, stage_id, rare_weapons, weapon_list, updated_at)
-  VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, datetime('now'))
-  ON CONFLICT(id) DO UPDATE SET
-    start_time   = excluded.start_time,
-    end_time     = excluded.end_time,
-    mode         = excluded.mode,
-    rule         = excluded.rule,
-    boss_id      = excluded.boss_id,
-    stage_id     = excluded.stage_id,
-    rare_weapons = excluded.rare_weapons,
-    weapon_list  = excluded.weapon_list,
-    updated_at   = datetime('now')`
 
 const refresh = async (env: Bindings): Promise<void> => {
   const upstream = await fetch(UPSTREAM_URL)
@@ -27,21 +14,26 @@ const refresh = async (env: Bindings): Promise<void> => {
   if (query.schedules.length === 0) {
     return
   }
-  const statement = env.SCHEDULES.prepare(UPSERT_SQL)
-  const batch = query.schedules.map((schedule) =>
-    statement.bind(
-      schedule.id,
-      schedule.startTime,
-      schedule.endTime,
-      schedule.mode,
-      schedule.rule,
-      schedule.bossId ?? null,
-      schedule.stageId,
-      JSON.stringify(schedule.rareWeapons),
-      JSON.stringify(schedule.weaponList)
-    )
+  const prisma = createPrismaClient(env)
+  await prisma.$transaction(
+    query.schedules.map((schedule) => {
+      const payload = {
+        startTime: schedule.startTime,
+        endTime: schedule.endTime,
+        mode: schedule.mode,
+        rule: schedule.rule,
+        bossId: schedule.bossId ?? null,
+        stageId: schedule.stageId,
+        rareWeapons: JSON.stringify(schedule.rareWeapons),
+        weaponList: JSON.stringify(schedule.weaponList)
+      }
+      return prisma.schedule.upsert({
+        where: { id: schedule.id },
+        create: { id: schedule.id, ...payload },
+        update: payload
+      })
+    })
   )
-  await env.SCHEDULES.batch(batch)
 }
 
 export const scheduled = async (_event: ScheduledController, env: Bindings, ctx: ExecutionContext): Promise<void> => {
