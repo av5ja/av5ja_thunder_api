@@ -41,6 +41,7 @@
     }
   },
   "files": {
-    "maxSize": 5000000
+    "maxSize": 5000000,
+    "includes": ["**", "!.wrangler", "!node_modules", "!dist", "!bun.lockb"]
   }
 }
