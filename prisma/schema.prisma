@@ -1,0 +1,30 @@
+generator client {
+  provider = "prisma-client"
+  output   = "../src/generated/prisma"
+  runtime  = "cloudflare"
+}
+
+datasource db {
+  provider = "sqlite"
+}
+
+// NOTE: The runtime Worker constructs PrismaClient with the D1 driver adapter
+// (see src/utils/prisma.ts). The Prisma CLI is only used for `prisma generate`
+// and `prisma migrate diff --from-empty --to-schema-datamodel`, neither of
+// which needs a live connection URL.
+
+model Schedule {
+  id          String   @id
+  startTime   String?  @map("start_time")
+  endTime     String?  @map("end_time")
+  mode        String
+  rule        String
+  bossId      Int?     @map("boss_id")
+  stageId     Int      @map("stage_id")
+  rareWeapons String   @map("rare_weapons")
+  weaponList  String   @map("weapon_list")
+  updatedAt   DateTime @default(now()) @map("updated_at")
+
+  @@index([startTime(sort: Desc)], map: "idx_schedules_start_time")
+  @@map("schedules")
+}
