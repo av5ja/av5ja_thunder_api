@@ -41,7 +41,8 @@
     "ghcr.io/dhoeric/features/act:1": {},
     "ghcr.io/devcontainers/features/git:1": {
       "version": "2.54.0"
-    }
+    },
+    "ghcr.io/christophermacgown/devcontainer-features/direnv:1": {}
   },
   "postAttachCommand": "/bin/sh .devcontainer/postAttachCommand.sh",
   "postCreateCommand": "/bin/sh .devcontainer/postCreateCommand.sh",
