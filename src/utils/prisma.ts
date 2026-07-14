@@ -1,5 +1,5 @@
 import { PrismaD1 } from '@prisma/adapter-d1'
-import { PrismaClient } from '@/generated/prisma'
+import { PrismaClient } from '@/generated/prisma/client'
 import type { Bindings } from './bindings'
 
 export const createPrismaClient = (env: Bindings): PrismaClient => {

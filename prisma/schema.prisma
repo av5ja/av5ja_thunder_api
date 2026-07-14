@@ -1,19 +1,17 @@
 generator client {
-  provider        = "prisma-client-js"
-  previewFeatures = ["driverAdapters"]
-  output          = "../src/generated/prisma"
+  provider = "prisma-client"
+  output   = "../src/generated/prisma"
+  runtime  = "cloudflare"
 }
 
 datasource db {
   provider = "sqlite"
-  url      = env("DATABASE_URL")
 }
 
-// NOTE: DATABASE_URL is only consumed by the Prisma CLI (migrate diff, generate)
-// and is not read at runtime — the Worker constructs PrismaClient with the D1
-// driver adapter (see src/utils/prisma.ts). Local dev/CI can leave the env var
-// unset for `prisma generate`; only `prisma migrate diff` needs a value, and
-// we invoke it with `--from-empty --to-schema-datamodel`, which does not.
+// NOTE: The runtime Worker constructs PrismaClient with the D1 driver adapter
+// (see src/utils/prisma.ts). The Prisma CLI is only used for `prisma generate`
+// and `prisma migrate diff --from-empty --to-schema-datamodel`, neither of
+// which needs a live connection URL.
 
 model Schedule {
   id          String   @id
