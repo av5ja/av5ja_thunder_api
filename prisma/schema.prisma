@@ -1,0 +1,32 @@
+generator client {
+  provider        = "prisma-client-js"
+  previewFeatures = ["driverAdapters"]
+  output          = "../src/generated/prisma"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+// NOTE: DATABASE_URL is only consumed by the Prisma CLI (migrate diff, generate)
+// and is not read at runtime — the Worker constructs PrismaClient with the D1
+// driver adapter (see src/utils/prisma.ts). Local dev/CI can leave the env var
+// unset for `prisma generate`; only `prisma migrate diff` needs a value, and
+// we invoke it with `--from-empty --to-schema-datamodel`, which does not.
+
+model Schedule {
+  id          String   @id
+  startTime   String?  @map("start_time")
+  endTime     String?  @map("end_time")
+  mode        String
+  rule        String
+  bossId      Int?     @map("boss_id")
+  stageId     Int      @map("stage_id")
+  rareWeapons String   @map("rare_weapons")
+  weaponList  String   @map("weapon_list")
+  updatedAt   DateTime @default(now()) @map("updated_at")
+
+  @@index([startTime(sort: Desc)], map: "idx_schedules_start_time")
+  @@map("schedules")
+}
