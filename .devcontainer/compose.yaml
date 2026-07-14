@@ -1,13 +1,14 @@
 services:
-  node:
+  app:
     build:
       context: .
       dockerfile: Dockerfile
-    ports:
-      - 8787:8787
     volumes:
       - node_modules:/home/vscode/app/node_modules
       - ../:/home/vscode/app:cached
+    environment:
+      NODE_ENV: development
+      NODE_OPTIONS: "--no-deprecation"
     tty: true
     stdin_open: true
 

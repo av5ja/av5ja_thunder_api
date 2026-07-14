@@ -1,11 +1,9 @@
 import info from '@/../package.json'
-import type { ApiReferenceOptions } from '@scalar/hono-api-reference'
+import type { ApiReferenceConfiguration } from '@scalar/hono-api-reference'
 import { lowerCase, startCase } from 'lodash'
 
-export const reference: ApiReferenceOptions = {
-  spec: {
-    url: '/specification'
-  },
+export const reference: Partial<ApiReferenceConfiguration> = {
+  url: '/specification',
   defaultHttpClient: {
     targetKey: 'node',
     clientKey: 'axios'

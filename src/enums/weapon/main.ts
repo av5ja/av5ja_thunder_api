@@ -154,17 +154,3 @@ export namespace WeaponInfoMain {
   }
 }
 
-/**
- * HashからIDを計算する
- * @param hash
- * @returns
- */
-export const Hash2Id = (hash: WeaponInfoMain.Hash | string): WeaponInfoMain.Id => {
-  return WeaponInfoMain.Id[
-    Object.entries(WeaponInfoMain.Hash).find(([, value]) => value === hash)?.[0] ?? WeaponInfoMain.Id.Dummy
-  ]
-}
-
-export const Id2Hash = (id: WeaponInfoMain.Id | number): WeaponInfoMain.Hash => {
-  return WeaponInfoMain.Hash[WeaponInfoMain.Id[id]]
-}
