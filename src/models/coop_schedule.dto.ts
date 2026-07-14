@@ -1,14 +1,14 @@
 import { createHash } from 'node:crypto'
+import { z } from '@hono/zod-openapi'
 import { CoopBossInfo } from '@/enums/coop/coop_enemy'
 import { CoopMode } from '@/enums/coop/coop_mode'
 import { CoopRule } from '@/enums/coop/coop_rule'
 import { CoopStage } from '@/enums/coop/coop_stage'
 import { WeaponInfoMain } from '@/enums/weapon/main'
 import { camelcaseKeys } from '@/utils/camelcase_keys'
-import { z } from '@hono/zod-openapi'
 import { DateTime } from './common/datetime.dto'
 
-// biome-ignore lint/suspicious/noExplicitAny: <explanation>
+// biome-ignore lint/suspicious/noExplicitAny: upstream JSON shape is unknown; zod validates downstream
 const BigBossModel = z.preprocess((input: any) => {
   switch (input) {
     case 'SakeJaw':
@@ -49,7 +49,7 @@ const ScheduleModel = (mode: CoopMode, rule: CoopRule) =>
 
 export namespace CoopSchedule {
   export const Request = z.preprocess(
-    // biome-ignore lint/suspicious/noExplicitAny: <explanation>
+    // biome-ignore lint/suspicious/noExplicitAny: upstream JSON shape is unknown; zod validates downstream
     (input: any) => {
       return camelcaseKeys(input)
     },
@@ -65,7 +65,7 @@ export namespace CoopSchedule {
    * 自動でIDを生成する
    */
   export const Response = z.preprocess(
-    // biome-ignore lint/suspicious/noExplicitAny: <explanation>
+    // biome-ignore lint/suspicious/noExplicitAny: upstream JSON shape is unknown; zod validates downstream
     (input: any) => {
       if (input === null) return input
       if (input.bossId === undefined) input.bossId = undefined
@@ -121,5 +121,3 @@ export class CoopScheduleQuery {
     return this.response
   }
 }
-
-type ScheduleModel = z.infer<ReturnType<typeof ScheduleModel>>

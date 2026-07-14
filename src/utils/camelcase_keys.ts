@@ -1,6 +1,6 @@
 import { camelCase, isArray, isDate, isObject, reduce } from 'lodash'
 
-// biome-ignore lint/suspicious/noExplicitAny: <explanation>
+// biome-ignore lint/suspicious/noExplicitAny: recursive helper walks arbitrary JSON
 export const camelcaseKeys = (obj: any): object => {
   if (!isObject(obj)) {
     return obj

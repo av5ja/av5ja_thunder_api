@@ -153,18 +153,3 @@ export namespace WeaponInfoMain {
     SaberBear = '480bc1dfb0beed1ce4625a6a6b035e4bac711de019bb9b0e5125e4e7e39e0719'
   }
 }
-
-/**
- * HashからIDを計算する
- * @param hash
- * @returns
- */
-export const Hash2Id = (hash: WeaponInfoMain.Hash | string): WeaponInfoMain.Id => {
-  return WeaponInfoMain.Id[
-    Object.entries(WeaponInfoMain.Hash).find(([, value]) => value === hash)?.[0] ?? WeaponInfoMain.Id.Dummy
-  ]
-}
-
-export const Id2Hash = (id: WeaponInfoMain.Id | number): WeaponInfoMain.Hash => {
-  return WeaponInfoMain.Hash[WeaponInfoMain.Id[id]]
-}
