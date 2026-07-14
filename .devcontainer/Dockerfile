@@ -1,1 +1,1 @@
-FROM mcr.microsoft.com/devcontainers/javascript-node:22-bullseye
+FROM mcr.microsoft.com/devcontainers/base:dev-ubuntu22.04
