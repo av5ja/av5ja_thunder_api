@@ -15,11 +15,26 @@ workers_dev = true
 enabled = true
 head_sampling_rate = 1
 
+[[env.development.d1_databases]]
+binding = "SCHEDULES"
+database_name = "av5ja-schedules-dev"
+database_id = "REPLACE_WITH_DEV_DATABASE_ID"
+migrations_dir = "migrations"
+
 [env.production]
 
 [env.production.observability]
 enabled = true
 head_sampling_rate = 1
+
+[env.production.triggers]
+crons = ["*/30 * * * *"]
+
+[[env.production.d1_databases]]
+binding = "SCHEDULES"
+database_name = "av5ja-schedules"
+database_id = "REPLACE_WITH_PROD_DATABASE_ID"
+migrations_dir = "migrations"
 
 [dev]
 ip = "0.0.0.0"
