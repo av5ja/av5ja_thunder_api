@@ -1,1 +1,3 @@
-export type Bindings = Record<string, never>
+export type Bindings = {
+  SCHEDULES: D1Database
+}

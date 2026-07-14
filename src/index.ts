@@ -10,6 +10,7 @@ import { logger } from 'hono/logger'
 import { ZodError } from 'zod'
 import { app as schedules } from './api/schedules'
 import type { Bindings } from './utils/bindings'
+import { scheduled } from './utils/handler/scheduled'
 import { reference, specification } from './utils/openapi'
 
 const app = new Hono<{ Bindings: Bindings }>()
@@ -46,4 +47,7 @@ app.onError((error, c) => {
 })
 app.route('/v3/schedules', schedules)
 
-export default app
+export default {
+  fetch: app.fetch,
+  scheduled
+}
