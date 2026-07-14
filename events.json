@@ -1,0 +1,22 @@
+{
+  "action": "closed",
+  "pull_request": {
+    "number": 99,
+    "merged": true,
+    "state": "closed",
+    "title": "test: act local run",
+    "head": {
+      "ref": "develop",
+      "sha": "089fabc0000000000000000000000000000000dd"
+    },
+    "base": {
+      "ref": "master",
+      "sha": "089fabc0000000000000000000000000000000dd"
+    }
+  },
+  "repository": {
+    "name": "app",
+    "full_name": "tkgstrator/app",
+    "default_branch": "master"
+  }
+}
