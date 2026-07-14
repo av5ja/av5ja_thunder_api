@@ -3,11 +3,40 @@ import { cache } from 'hono/cache'
 import { HTTPMethod } from '@/enums/method'
 import { CoopSchedule, CoopScheduleQuery } from '@/models/coop_schedule.dto'
 import type { Bindings } from '@/utils/bindings'
+import { createPrismaClient } from '@/utils/prisma'
 
 export const app = new Hono<{ Bindings: Bindings }>()
 
 const UPSTREAM_URL = 'https://splatoon.oatmealdome.me/api/v1/three/coop/phases?count=5'
 const EDGE_TTL_SECONDS = 1800
+
+const readFromD1 = async (env: Bindings): Promise<CoopSchedule.Response[]> => {
+  const prisma = createPrismaClient(env)
+  const rows = await prisma.schedule.findMany({
+    orderBy: { startTime: 'desc' },
+    take: 50
+  })
+  return rows.map((row) =>
+    CoopSchedule.Response.parse({
+      startTime: row.startTime,
+      endTime: row.endTime,
+      mode: row.mode,
+      rule: row.rule,
+      bossId: row.bossId ?? undefined,
+      stageId: row.stageId,
+      rareWeapons: JSON.parse(row.rareWeapons),
+      weaponList: JSON.parse(row.weaponList)
+    })
+  )
+}
+
+const readFromUpstream = async (): Promise<CoopSchedule.Response[]> => {
+  const upstream = await fetch(UPSTREAM_URL, {
+    cf: { cacheEverything: true, cacheTtl: EDGE_TTL_SECONDS }
+  })
+  if (!upstream.ok) return []
+  return new CoopScheduleQuery(await upstream.json()).schedules
+}
 
 app.openapi(
   createRoute({
@@ -37,13 +66,10 @@ app.openapi(
     }
   }),
   async (c) => {
-    const upstream = await fetch(UPSTREAM_URL, {
-      cf: { cacheEverything: true, cacheTtl: EDGE_TTL_SECONDS }
-    })
-    if (!upstream.ok) {
-      return c.json({ schedules: [] })
+    const schedules = await readFromD1(c.env).catch(() => [] as CoopSchedule.Response[])
+    if (schedules.length > 0) {
+      return c.json({ schedules })
     }
-    const query = new CoopScheduleQuery(await upstream.json())
-    return c.json({ schedules: query.schedules })
+    return c.json({ schedules: await readFromUpstream() })
   }
 )

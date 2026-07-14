@@ -15,7 +15,7 @@ export namespace CoopStage {
     Temple = 103,
     Factory = 104,
     Section = 105,
-    Distinct = 106,
+    District = 106,
     Manbou = 107
   }
 

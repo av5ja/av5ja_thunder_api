@@ -226,3 +226,9 @@ $RECYCLE.BIN/
 .dev.vars
 
 # End of https://www.toptal.com/developers/gitignore/api/loudflareworkers
+
+# Prisma generated client (regenerated via bun run db:generate)
+src/generated/
+
+# direnv local cache
+.direnv/

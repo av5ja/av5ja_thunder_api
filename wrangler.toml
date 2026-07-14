@@ -15,11 +15,26 @@ workers_dev = true
 enabled = true
 head_sampling_rate = 1
 
+[[env.development.d1_databases]]
+binding = "SCHEDULES"
+database_name = "av5ja-schedules-dev"
+database_id = "7449d70a-ab08-43df-987c-1da54ad7b599"
+migrations_dir = "migrations"
+
 [env.production]
 
 [env.production.observability]
 enabled = true
 head_sampling_rate = 1
+
+[env.production.triggers]
+crons = ["*/30 * * * *"]
+
+[[env.production.d1_databases]]
+binding = "SCHEDULES"
+database_name = "av5ja-schedules"
+database_id = "865f2a3c-09b2-49f9-a328-bf20070e9456"
+migrations_dir = "migrations"
 
 [dev]
 ip = "0.0.0.0"
