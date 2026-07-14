@@ -229,3 +229,6 @@ $RECYCLE.BIN/
 
 # Prisma generated client (regenerated via bun run db:generate)
 src/generated/
+
+# direnv local cache
+.direnv/

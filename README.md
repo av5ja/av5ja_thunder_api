@@ -90,8 +90,26 @@ The generated Prisma Client (`src/generated/prisma/`) is **not** committed — i
 
 ## Development
 
+The devcontainer ships with **direnv**. Put your Cloudflare credentials in `.env` at the repo root:
+
+```env
+CLOUDFLARE_API_TOKEN=...
+CLOUDFLARE_ACCOUNT_ID=...
+```
+
+Then run **once**:
+
 ```sh
-bun install
+direnv allow    # security ack for .envrc — only needed on first checkout
+                # (and after .envrc itself is edited, not .env)
+```
+
+After that, `cd`-ing into this repo auto-loads `.env` into env vars for every command (`bunx wrangler …`, `bun run …`, etc.). Editing `.env` triggers an automatic reload on the next prompt — no re-`allow` needed.
+
+Everyday commands:
+
+```sh
+bun install        # also runs prisma generate (postinstall)
 bun run dev        # wrangler dev on port 18787
 bun test           # unit tests for the schedule shape
 bunx tsc --noEmit  # type check
