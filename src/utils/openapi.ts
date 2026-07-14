@@ -1,6 +1,6 @@
-import info from '@/../package.json'
 import type { ApiReferenceConfiguration } from '@scalar/hono-api-reference'
 import { lowerCase, startCase } from 'lodash'
+import info from '@/../package.json'
 
 export const reference: Partial<ApiReferenceConfiguration> = {
   url: '/specification',

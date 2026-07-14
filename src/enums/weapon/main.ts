@@ -153,4 +153,3 @@ export namespace WeaponInfoMain {
     SaberBear = '480bc1dfb0beed1ce4625a6a6b035e4bac711de019bb9b0e5125e4e7e39e0719'
   }
 }
-
