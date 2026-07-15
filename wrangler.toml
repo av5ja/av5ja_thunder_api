@@ -1,4 +1,4 @@
-name = "av5ja"
+name = "av5ja-api"
 main = "src/index.ts"
 compatibility_flags = ["nodejs_compat"]
 compatibility_date = "2024-09-02"
@@ -8,20 +8,25 @@ send_metrics = true
 enabled = true
 head_sampling_rate = 1
 
-[env.development]
+[env.staging]
+name = "av5ja-api-staging"
 workers_dev = true
 
-[env.development.observability]
+[env.staging.observability]
 enabled = true
 head_sampling_rate = 1
 
-[[env.development.d1_databases]]
+[[env.staging.d1_databases]]
 binding = "SCHEDULES"
-database_name = "av5ja-schedules-dev"
-database_id = "7449d70a-ab08-43df-987c-1da54ad7b599"
+database_name = "av5ja-schedules-staging"
+database_id = "211b7eca-6312-42aa-911c-0b942ab73b7d"
 migrations_dir = "migrations"
 
 [env.production]
+name = "av5ja-api"
+routes = [
+  { pattern = "api.splatnet3.com", custom_domain = true }
+]
 
 [env.production.observability]
 enabled = true
