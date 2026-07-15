@@ -13,8 +13,7 @@ const EDGE_TTL_SECONDS = 1800
 const readFromD1 = async (env: Bindings): Promise<CoopSchedule.Response[]> => {
   const prisma = createPrismaClient(env)
   const rows = await prisma.schedule.findMany({
-    orderBy: { startTime: 'desc' },
-    take: 50
+    orderBy: { startTime: 'desc' }
   })
   return rows.map((row) =>
     CoopSchedule.Response.parse({
