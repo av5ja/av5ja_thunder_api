@@ -1,6 +1,6 @@
 {
   "name": "thunder_api",
-  "version": "7.0.5",
+  "version": "7.0.6",
   "description": "SplatNet3から取得したJSONをパースしてSplatNet2形式などの扱いやすいフォーマットに変換してくれるAPIです",
   "author": "@tkgstrator",
   "private": true,
